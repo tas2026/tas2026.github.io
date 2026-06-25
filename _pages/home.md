@@ -35,7 +35,9 @@ The two and one-half day format prioritizes discussion and collaborative product
 **Location:** Westin Arlington, Arlington, Virginia, USA
 **Format:** In person (per AAAI policy)
 **Contacts:** sumon@case.edu, adas@uakron.edu, shahnewazkarim-sakib@utc.edu, shibbir@txstate.edu
+
 **Note:** This site is under construction. Items marked **TBA** will be updated as the program is finalized.
+
 ---
 ### Organizing Committee
 <div style="display:flex; justify-content:center; align-items:flex-start; gap:2rem; flex-wrap:wrap; margin-bottom:3rem;">
@@ -73,6 +75,7 @@ The two and one-half day format prioritizes discussion and collaborative product
   </div>
 </div>
 Full bios are available on the [Organization page]({{ '/organization/' | relative_url }}).
+
 ---
 ## Participation
 TAS welcomes full papers, short papers, position statements, and one-page abstracts, as well as statements of interest from prospective attendees. Speculative work and work in progress are encouraged alongside completed results.
@@ -91,6 +94,7 @@ The "Preferred" submission round, with the option to be included in the AAAI pro
 
 Regardless of archival plans, authors are encouraged to submit earlier rather than later. All participants (presenters, organizers, and attendees) are required to register for the event.
 Full details are available on the [Call for Participation page]({{ '/call-for-papers/' | relative_url }}).
+
 ---
 ### Preliminary Schedule
 TAS will feature invited speakers, paper and spotlight sessions, target-problem working groups, an open-format panel, and a tool and dataset showcase, spread across a two and one-half day program.
