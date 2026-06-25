@@ -6,23 +6,17 @@ nav: true
 nav_order: 7
 nav_title: Contact
 ---
-
 # Contact
-
-If you have questions about **RTAS 2026**, please reach out to any of the organizers:
-
-- **Dr. Anindya Bijoy Das**
-  Assistant Professor, University of Akron
-  Email: [adas@uakron.edu](mailto:adas@uakron.edu)
-
+If you have questions about **TAS 2026**, please reach out to any of the organizers:
 - **Dr. Sumon Biswas**
-  Assistant Professor, Case Western Reserve University
+  Co-Chair, Assistant Professor, Case Western Reserve University
   Email: [sumon@case.edu](mailto:sumon@case.edu)
-
+- **Dr. Anindya Bijoy Das**
+  Co-Chair, Assistant Professor, University of Akron
+  Email: [adas@uakron.edu](mailto:adas@uakron.edu)
 - **Dr. Shahnewaz Karim Sakib**
-  Assistant Professor, University of Tennessee at Chattanooga
+  Co-Chair, Assistant Professor, University of Tennessee at Chattanooga
   Email: [shahnewazkarim-sakib@utc.edu](mailto:shahnewazkarim-sakib@utc.edu)
-
 - **Dr. Shibbir Ahmed**
-  Assistant Professor, Texas State University
+  Co-Chair, Assistant Professor, Texas State University
   Email: [shibbir@txstate.edu](mailto:shibbir@txstate.edu)
