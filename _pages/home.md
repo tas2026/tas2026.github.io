@@ -35,7 +35,7 @@ The two and one-half day format prioritizes discussion and collaborative product
 **Location:** Westin Arlington, Arlington, Virginia, USA
 **Format:** In person (per AAAI policy)
 **Contacts:** sumon@case.edu, adas@uakron.edu, shahnewazkarim-sakib@utc.edu, shibbir@txstate.edu
-> **Note:** This site is under construction. Items marked **TBA** will be updated as the program is finalized.
+**Note:** This site is under construction. Items marked **TBA** will be updated as the program is finalized.
 ---
 ### Organizing Committee
 <div style="display:flex; justify-content:center; align-items:flex-start; gap:2rem; flex-wrap:wrap; margin-bottom:3rem;">
