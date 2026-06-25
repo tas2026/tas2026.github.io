@@ -18,9 +18,9 @@ nav_title: "CFP"
 We welcome submissions addressing either or both complementary themes, plus cross-cutting topics.
 
 **Theme I: Trustworthy agentic systems by design** (building responsibility into agents and their underlying models)
-- Fairness, bias detection, and mitigation in LLM outputs, recommendations, and agentic decisions
 - Privacy-preserving and federated training and fine-tuning; differential privacy; machine unlearning and the right to be forgotten
 - Safety, alignment, and guardrails for LLMs and tool-using agents; constraint enforcement and human-over-the-loop control
+- Subgroup robustness and performance disparities across populations in LLM outputs, recommendations, and agentic decisions
 - Adversarial robustness: jailbreaks, prompt and tool-output injection, memory poisoning, agent hijacking, and systematic red-teaming
 - Hallucination mitigation, grounding, factuality, and provenance guarantees in retrieval-augmented and multi-modal systems
 - Explainability, interpretability, and transparency for high-stakes and clinical decision support
@@ -42,35 +42,41 @@ We welcome submissions addressing either or both complementary themes, plus cros
 
 ## Submission
 
-- **Submission types.** Full papers (novel research, empirical studies, or tools); short papers and position statements (work in progress, experience reports, tool papers, or benchmarks); and statements of interest (a short abstract for attendees who do not submit a full contribution).
-- **Format.** TBA. Formatting instructions will be posted here once confirmed.
-- **Submission site.** TBA.
-- **Review process.** Each submission will be reviewed by members of the program committee for relevance, technical soundness, clarity, and potential to stimulate discussion.
-- **Registration.** Per AAAI policy, all participants (presenters, organizers, and attendees) must register for the event. RTAS follows the AAAI in-person, no-virtual-presentations policy; a livestream for remote attendees may be arranged upon request.
+We invite the following contributions, formatted using the AAAI-26 author kit:
+
+- **Full Papers (4-8 pages):** for novel research, artifact submissions, or strong works in progress.
+- **Short Papers (2-4 pages):** for positions, smaller artifacts, and early work in progress.
+- **Abstracts (1 page):** for sharing ideas (non-archival only).
+
+Page limits exclude references. Each submission is reviewed by members of the program committee for relevance, technical soundness, clarity, and potential to stimulate discussion. Submissions should be made through EasyChair (link to be posted here).
+
+Per AAAI policy, all participants (presenters, organizers, and attendees) must register for the event. TAS follows the AAAI in-person, no-virtual-presentations policy.
 
 ---
 
 ## Important Dates
 
-> **TBA.** Submission, notification, and camera-ready dates will be announced here in coordination with AAAI.
+The "Preferred" submission round, with the option to be included in the AAAI proceedings:
 
 | Milestone | Date |
 | --- | --- |
-| Submission deadline | TBA |
-| Notification | TBA |
-| Camera-ready | TBA |
+| Submission deadline | September 1, 2026 |
+| Author notification | September 15, 2026 |
+| Camera-ready deadline | September 29, 2026 |
 | Symposium | November 5&ndash;7, 2026 |
+
+Regardless of archival plans, authors are encouraged to submit earlier rather than later.
 
 ---
 
 ## Proceedings
 
-> **TBA.** Whether contributions appear as AAAI Technical Reports or informal proceedings will be confirmed with the AAAI proceedings team.
+Accepted contributions in the "Preferred" submission round may be included in the official AAAI proceedings (AAAI Technical Reports). One-page abstracts are non-archival. Camera-ready files for the official AAAI proceedings are collected through the AAAI CRC platform; further instructions will be shared with accepted authors.
 
 ---
 
 ### Contact
-**Anindya Bijoy Das** (University of Akron), adas@uakron.edu
-**Sumon Biswas** (Case Western Reserve University), sumon@case.edu
-**Shahnewaz Karim Sakib** (University of Tennessee at Chattanooga), shahnewazkarim-sakib@utc.edu
-**Shibbir Ahmed** (Texas State University), shibbir@txstate.edu
+**Sumon Biswas** (Co-Chair, Case Western Reserve University), sumon@case.edu
+**Anindya Bijoy Das** (Co-Chair, University of Akron), adas@uakron.edu
+**Shahnewaz Karim Sakib** (Co-Chair, University of Tennessee at Chattanooga), shahnewazkarim-sakib@utc.edu
+**Shibbir Ahmed** (Co-Chair, Texas State University), shibbir@txstate.edu
