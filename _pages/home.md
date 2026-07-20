@@ -8,7 +8,7 @@ nav_order: 1
 <div style="display:flex; align-items:center; justify-content:center; gap:1.5rem; margin:2rem 0; flex-wrap:wrap;">
   <img
     src="{{ '/assets/img/rtas-logo.svg' | relative_url }}"
-    alt="RTAS 2026 Logo"
+    alt="TAS 2026 Logo"
     style="width:120px; height:auto;"
   />
   <h1 style="margin:0; font-size:2.2rem; line-height:1.2;">
@@ -35,20 +35,10 @@ The two and one-half day format prioritizes discussion and collaborative product
 **Location:** Westin Arlington, Arlington, Virginia, USA
 **Format:** In person (per AAAI policy)
 **Contacts:** sumon@case.edu, adas@uakron.edu, shahnewazkarim-sakib@utc.edu, shibbir@txstate.edu
-
-**Note:** This site is under construction. Items marked **TBA** will be updated as the program is finalized.
-
+<p style="font-size:0.9rem; color:#666; margin-top:1rem;"><strong>Note:</strong> This site is under construction. Items marked <strong>TBA</strong> will be updated as the program is finalized.</p>
 ---
 ### Organizing Committee
 <div style="display:flex; justify-content:center; align-items:flex-start; gap:2rem; flex-wrap:wrap; margin-bottom:3rem;">
-  <div style="text-align:center; width:160px;">
-    <img
-      src="{{ '/assets/img/anindya.jpg' | relative_url }}"
-      alt="Dr. Anindya Bijoy Das"
-      style="width:100px; height:100px; object-fit:cover; border-radius:50%;"
-    /><br>
-    <strong>Dr. Anindya Bijoy Das</strong><br><em>Co-Chair</em><br><em>University of Akron, USA</em>
-  </div>
   <div style="text-align:center; width:160px;">
     <img
       src="{{ '/assets/img/sumon.jpg' | relative_url }}"
@@ -56,6 +46,14 @@ The two and one-half day format prioritizes discussion and collaborative product
       style="width:100px; height:100px; object-fit:cover; border-radius:50%;"
     /><br>
     <strong>Dr. Sumon Biswas</strong><br><em>Co-Chair</em><br><em>Case Western Reserve University, USA</em>
+  </div>
+  <div style="text-align:center; width:160px;">
+    <img
+      src="{{ '/assets/img/anindya.jpg' | relative_url }}"
+      alt="Dr. Anindya Bijoy Das"
+      style="width:100px; height:100px; object-fit:cover; border-radius:50%;"
+    /><br>
+    <strong>Dr. Anindya Bijoy Das</strong><br><em>Co-Chair</em><br><em>University of Akron, USA</em>
   </div>
   <div style="text-align:center; width:160px;">
     <img
@@ -75,16 +73,15 @@ The two and one-half day format prioritizes discussion and collaborative product
   </div>
 </div>
 Full bios are available on the [Organization page]({{ '/organization/' | relative_url }}).
-
 ---
 ## Participation
-TAS welcomes full papers, short papers, position statements, and one-page abstracts, as well as statements of interest from prospective attendees. Speculative work and work in progress are encouraged alongside completed results.
+TAS welcomes full papers, short papers, and one-page abstracts, as well as statements of interest from prospective attendees. Speculative work and work in progress are encouraged alongside completed results.
 ### Submission Types
 Submissions are formatted using the AAAI-26 author kit.
-- **Full Papers (4-8 pages):** for novel research, artifact submissions, or strong works in progress.
-- **Short Papers (2-4 pages):** for positions, smaller artifacts, and early work in progress.
+- **Full Papers (6-8 pages):** for novel research, artifact submissions, or mature works in progress.
+- **Short Papers (2-4 pages):** for position papers, preliminary findings, smaller artifacts, and early-stage work.
 - **Abstracts (1 page):** for sharing ideas (non-archival only).
-- **Submission site:** EasyChair (link to be posted here).
+- **Submission site:** [EasyChair](https://easychair.org/conferences/?conf=fss26).
 - **Review process:** Each submission will be reviewed by members of the program committee for relevance, soundness, and potential to stimulate discussion.
 ### Important Dates
 The "Preferred" submission round, with the option to be included in the AAAI proceedings:
@@ -93,8 +90,7 @@ The "Preferred" submission round, with the option to be included in the AAAI pro
 - **Camera Ready deadline:** September 29, 2026
 
 Regardless of archival plans, authors are encouraged to submit earlier rather than later. All participants (presenters, organizers, and attendees) are required to register for the event.
-Full details are available on the [Call for Participation page]({{ '/call-for-papers/' | relative_url }}).
-
+Full details are available on the [Call for Paper page]({{ '/call-for-papers/' | relative_url }}).
 ---
 ### Preliminary Schedule
 TAS will feature invited speakers, paper and spotlight sessions, target-problem working groups, an open-format panel, and a tool and dataset showcase, spread across a two and one-half day program.
