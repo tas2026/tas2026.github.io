@@ -39,8 +39,8 @@ We invite the following contributions, formatted using the AAAI-26 author kit:
 
 Page limits exclude references. Each submission is reviewed by the program committee for relevance, soundness, and potential to stimulate discussion. Submissions should be made through EasyChair ([https://easychair.org/conferences/?conf=fss26](https://easychair.org/conferences/?conf=fss26)).
 
-**TAS 2026 will be held fully in person. In accordance with AAAI policy, virtual presentations will not be offered, and all presenters and attendees must register for the Fall Symposium Series.
-**
+**TAS 2026 will be held fully in person. In accordance with AAAI policy, virtual presentations will not be offered, and all presenters and attendees must register for the Fall Symposium Series.**
+
 ---
 ## Important Dates
 The "Preferred" submission round, with the option to be included in the AAAI proceedings:
