@@ -74,7 +74,6 @@ The two and one-half day format prioritizes discussion and collaborative product
 </div>
 Full bios are available on the [Organization page]({{ '/organization/' | relative_url }}).
 
----
 ## Participation
 TAS welcomes full papers, short papers, and one-page abstracts, as well as statements of interest from prospective attendees. Speculative work and work in progress are encouraged alongside completed results.
 ### Submission Types
