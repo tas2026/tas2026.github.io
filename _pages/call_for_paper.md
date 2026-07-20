@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Call for Participation"
+title: "Call for Paper"
 permalink: /call-for-papers/
 nav: true
 nav_order: 3
@@ -44,11 +44,11 @@ We welcome submissions addressing either or both complementary themes, plus cros
 
 We invite the following contributions, formatted using the AAAI-26 author kit:
 
-- **Full Papers (4-8 pages):** for novel research, artifact submissions, or strong works in progress.
+- **Full Papers (6-8 pages):** for novel research, artifact submissions, or strong works in progress.
 - **Short Papers (2-4 pages):** for positions, smaller artifacts, and early work in progress.
 - **Abstracts (1 page):** for sharing ideas (non-archival only).
 
-Page limits exclude references. Each submission is reviewed by members of the program committee for relevance, technical soundness, clarity, and potential to stimulate discussion. Submissions should be made through EasyChair (link to be posted here).
+Regardless of archival plans, authors are encouraged to submit earlier rather than later. Page limits exclude references. Each submission is reviewed by the program committee for relevance, soundness, and potential to stimulate discussion.** Submissions should be made through EasyChair (https://easychair.org/conferences/?conf=fss26)**.
 
 Per AAAI policy, all participants (presenters, organizers, and attendees) must register for the event. TAS follows the AAAI in-person, no-virtual-presentations policy.
 
@@ -77,6 +77,9 @@ Accepted contributions in the "Preferred" submission round may be included in th
 
 ### Contact
 **Sumon Biswas** (Co-Chair, Case Western Reserve University), sumon@case.edu
+
 **Anindya Bijoy Das** (Co-Chair, University of Akron), adas@uakron.edu
+
 **Shahnewaz Karim Sakib** (Co-Chair, University of Tennessee at Chattanooga), shahnewazkarim-sakib@utc.edu
+
 **Shibbir Ahmed** (Co-Chair, Texas State University), shibbir@txstate.edu
