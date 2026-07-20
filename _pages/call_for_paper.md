@@ -29,6 +29,7 @@ We welcome submissions addressing either or both complementary themes, plus cros
 - Open datasets, toolkits, and shared infrastructure that lower the barrier to responsible practice
 **Cross-Cutting**
 - Tool demos, datasets, benchmarks, and reusable artifacts; case studies and industry experience; interdisciplinary perspectives across AI, software engineering, HCI, and policy.
+
 ---
 ## Submission
 We invite the following contributions, formatted using the AAAI-26 author kit:
@@ -38,7 +39,8 @@ We invite the following contributions, formatted using the AAAI-26 author kit:
 
 Page limits exclude references. Each submission is reviewed by the program committee for relevance, soundness, and potential to stimulate discussion. Submissions should be made through EasyChair ([https://easychair.org/conferences/?conf=fss26](https://easychair.org/conferences/?conf=fss26)).
 
-TAS 2026 will be held fully in person. In accordance with AAAI policy, virtual presentations will not be offered, and all presenters and attendees must register for the Fall Symposium Series.
+**TAS 2026 will be held fully in person. In accordance with AAAI policy, virtual presentations will not be offered, and all presenters and attendees must register for the Fall Symposium Series.
+**
 ---
 ## Important Dates
 The "Preferred" submission round, with the option to be included in the AAAI proceedings:
@@ -50,6 +52,7 @@ The "Preferred" submission round, with the option to be included in the AAAI pro
 | Symposium | November 5&ndash;7, 2026 |
 
 Regardless of archival plans, authors are encouraged to submit earlier rather than later.
+
 ---
 ## Proceedings
 Accepted contributions in the "Preferred" submission round may be included in the official AAAI proceedings (AAAI Technical Reports). One-page abstracts are non-archival. Camera-ready files for the official AAAI proceedings are collected through the AAAI CRC platform; further instructions will be shared with accepted authors.
