@@ -83,8 +83,8 @@ Submissions are formatted using the AAAI-26 author kit.
 - **Abstracts (1 page):** for sharing ideas (non-archival only).
 - **Submission site:** [EasyChair](https://easychair.org/conferences/?conf=fss26).
 - **Review process:** Each submission will be reviewed by members of the program committee for relevance, soundness, and potential to stimulate discussion.
+
 ### Important Dates
-The "Preferred" submission round, with the option to be included in the AAAI proceedings:
 - **Submission deadline:** September 1, 2026
 - **Author notification:** September 15, 2026
 - **Camera Ready deadline:** September 29, 2026
