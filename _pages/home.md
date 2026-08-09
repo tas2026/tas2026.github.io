@@ -21,23 +21,30 @@ nav_order: 1
   <div style="font-size:1.35rem; font-weight:600;">An AAAI 2026 Fall Symposium</div>
   <div style="font-size:1.05rem; margin-top:0.5rem;">November 5&ndash;7, 2026 &nbsp;&bull;&nbsp; Westin Arlington, Arlington, Virginia, USA</div>
 </div>
+
 ## Welcome
+
 Welcome to **TAS 2026: Trustworthy Agentic Systems**, a symposium in the **AAAI 2026 Fall Symposium Series**.
+
 Agentic systems, in which large language models (LLMs) plan, invoke tools, retrieve external knowledge, and act autonomously over multiple steps, are moving from research prototypes into consequential, real-world decision making. Our ability to guarantee that these systems are reliable, private, safe, and accountable has not kept pace. TAS convenes the artificial intelligence community to treat responsibility as a first-class design objective that is engineered, measured, and governed across the full lifecycle of an agent. The symposium is organized around two complementary themes:
+
 1. **Trustworthy agentic systems by design** : subgroup robustness, privacy-preserving and federated learning, safety and alignment, adversarial robustness, explainability, plan and autonomy specification, reliable and distributed execution, and rigorous evaluation of multi-step agent behavior.
 2. **Accountable governance and societal impact** : auditing and assurance, standards alignment (NIST AI RMF, ISO/IEC, EU AI Act), human oversight and accountability, societal impact, and open shared infrastructure.
+
 The two and one-half day format prioritizes discussion and collaborative production over passive presentation. Rather than a sequence of talks, TAS is built around shared target problems, working groups, and breakout sessions that produce concrete artifacts: open benchmarks, evaluation protocols, red-teaming playbooks, and a community research roadmap.
+
 <p align="center">
   <a href="https://tas2026.github.io/">TAS 2026</a> &bull; Part of the
   <a href="https://aaai.org/conference/fall-symposia/">AAAI Fall Symposium Series</a>
 </p>
+
 **Dates:** November 5&ndash;7, 2026
 **Location:** Westin Arlington, Arlington, Virginia, USA
 **Format:** In person (per AAAI policy)
 **Contacts:** sumon@case.edu, adas@uakron.edu, shahnewazkarim-sakib@utc.edu, shibbir@txstate.edu
 
----
 ### Organizing Committee
+
 <div style="display:flex; justify-content:center; align-items:flex-start; gap:2rem; flex-wrap:wrap; margin-bottom:3rem;">
   <div style="text-align:center; width:160px;">
     <img
@@ -72,27 +79,39 @@ The two and one-half day format prioritizes discussion and collaborative product
     <strong>Dr. Shibbir Ahmed</strong><br><em>Co-Chair</em><br><em>Texas State University, USA</em>
   </div>
 </div>
+
 Full bios are available on the [Organization page]({{ '/organization/' | relative_url }}).
 
 ## Participation
+
 TAS welcomes full papers, short papers, and one-page abstracts, as well as statements of interest from prospective attendees. Speculative work and work in progress are encouraged alongside completed results.
+
 ### Submission Types
-Submissions are formatted using the AAAI-26 author kit.
+
 - **Full Papers (6-8 pages):** for novel research, artifact submissions, or mature works in progress.
 - **Short Papers (2-4 pages):** for position papers, preliminary findings, smaller artifacts, and early-stage work.
 - **Abstracts (1 page):** for sharing ideas (non-archival only).
+- **Format:** AAAI two-column, camera-ready style; see the [AAAI-27 author kit](https://aaai.org/authorkit27/). Page limits exclude references.
+- **Anonymity:** AAAI submissions are anonymous and must conform to the requirements for double-blind review. Authors must remove all author and affiliation information from their submission for review.
 - **Submission site:** [EasyChair](https://easychair.org/conferences/?conf=fss26).
 - **Review process:** Each submission will be reviewed by members of the program committee for relevance, soundness, and potential to stimulate discussion.
 
 ### Important Dates
+
 - **Submission deadline:** September 1, 2026
 - **Author notification:** September 15, 2026
 - **Camera Ready deadline:** September 29, 2026
 
-Regardless of archival plans, authors are encouraged to submit earlier rather than later. All participants (presenters, organizers, and attendees) are required to register for the event.
+### Proceedings
+
+Accepted TAS 2026 papers will be published in the official AAAI Fall Symposium proceedings, provided at least one paper author attends the conference in person. One-page abstracts are non-archival.
+
+Authors are encouraged to submit earlier rather than later. All participants (presenters, organizers, and attendees) are required to register for the event.
+
 Full details are available on the [Call for Paper page]({{ '/call-for-papers/' | relative_url }}).
 
----
 ### Preliminary Schedule
+
 TAS will feature invited speakers, paper and spotlight sessions, target-problem working groups, an open-format panel, and a tool and dataset showcase, spread across a two and one-half day program.
+
 See the full schedule on the [Schedule page]({{ '/schedule/' | relative_url }}).
