@@ -91,12 +91,14 @@ TAS welcomes full papers, short papers, and one-page abstracts, as well as state
 - **Full Papers (6-8 pages):** for novel research, artifact submissions, or mature works in progress.
 - **Short Papers (2-4 pages):** for position papers, preliminary findings, smaller artifacts, and early-stage work.
 - **Abstracts (1 page):** for sharing ideas (non-archival only).
-- **Format:** AAAI two-column, camera-ready style; see the [AAAI-27 author kit](https://aaai.org/authorkit27/). Page limits exclude references.
+- **Format:** AAAI two-column, camera-ready style; see the [AAAI-27 author kit](https://aaai.org/authorkit27/). The AAAI-26 kit is also acceptable. Page limits exclude references; an optional technical appendix may follow the references and does not count toward the limit.
 - **Anonymity:** AAAI submissions are anonymous and must conform to the requirements for double-blind review. Authors must remove all author and affiliation information from their submission for review.
 - **Submission site:** [EasyChair](https://easychair.org/conferences/?conf=fss26).
 - **Review process:** Each submission will be reviewed by members of the program committee for relevance, soundness, and potential to stimulate discussion.
 
 ### Important Dates
+
+All deadlines are 11:59 PM AoE (Anywhere on Earth).
 
 - **Submission deadline:** September 1, 2026
 - **Author notification:** September 15, 2026
