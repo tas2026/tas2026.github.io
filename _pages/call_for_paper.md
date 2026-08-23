@@ -47,13 +47,15 @@ We invite the following contributions:
 - **Short Papers (2-4 pages):** for position papers, preliminary findings, smaller artifacts, and early-stage work.
 - **Abstracts (1 page):** for sharing ideas (non-archival only).
 
-Page limits exclude references. Papers must be formatted in AAAI two-column, camera-ready style; [see the AAAI-27 author kit for details](https://aaai.org/authorkit27/). Papers must be in trouble-free, high-resolution PDF format, formatted for US Letter (8.5" x 11") paper, using Type 1 or TrueType fonts. AAAI submissions are anonymous and must conform to the requirements for double-blind review. The authors must remove all author and affiliation information from their submission for review.
+Page limits exclude references. An optional technical appendix may follow the references and does not count toward the page limit; reviewers are not obligated to read it, so submissions should stand on their own within the page limit. Papers must be formatted in AAAI two-column, camera-ready style; [see the AAAI-27 author kit for details](https://aaai.org/authorkit27/). The AAAI-26 kit is also acceptable. Papers must be in trouble-free, high-resolution PDF format, formatted for US Letter (8.5" x 11") paper, using Type 1 or TrueType fonts. AAAI submissions are anonymous and must conform to the requirements for double-blind review. The authors must remove all author and affiliation information from their submission for review.
 
 Each submission is reviewed by the program committee for relevance, soundness, and potential to stimulate discussion. Submissions should be made through EasyChair ([https://easychair.org/conferences/?conf=fss26](https://easychair.org/conferences/?conf=fss26)).
 
 **TAS 2026 will be held fully in person. In accordance with AAAI policy, virtual presentations will not be offered, and all presenters and attendees must register for the Fall Symposium Series.**
 
 ## Important Dates
+
+All deadlines are 11:59 PM AoE (Anywhere on Earth).
 
 | Milestone | Date |
 | --- | --- |
