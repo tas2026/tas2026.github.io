@@ -6,7 +6,7 @@ nav: true
 nav_order: 2
 ---
 
-## Invited Speakers
+## Keynote Speakers
 
 <p>Additional speakers will be announced here as they are confirmed.</p>
 
