@@ -59,7 +59,7 @@ All deadlines are 11:59 PM AoE (Anywhere on Earth).
 
 | Milestone | Date |
 | --- | --- |
-| Submission deadline | September 1, 2026 |
+| Submission deadline | September 4, 2026 |
 | Author notification | September 15, 2026 |
 | Camera-ready deadline | September 29, 2026 |
 | Symposium | November 5&ndash;7, 2026 |
