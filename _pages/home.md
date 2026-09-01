@@ -100,7 +100,7 @@ TAS welcomes full papers, short papers, and one-page abstracts, as well as state
 
 All deadlines are 11:59 PM AoE (Anywhere on Earth).
 
-- **Submission deadline:** September 1, 2026
+- **Submission deadline:** September 4, 2026
 - **Author notification:** September 15, 2026
 - **Camera Ready deadline:** September 29, 2026
 
