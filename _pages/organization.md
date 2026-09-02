@@ -82,5 +82,27 @@ nav_order: 5
 **Dr. Shibbir Ahmed**, Texas State University, is an Assistant Professor of Computer Science whose research addresses software engineering for trustworthy AI systems at the intersection of AI, data science, and reliable deep learning, with work in venues including ICSE, FSE, EMSE, and ICIP and support from NSF and the U.S. Census Bureau. He co-organized the first IEEE Workshop on Distributed, Secure, and Trustworthy Intelligence with LLMs (DISTILL 2025) and the 1st International Workshop on Software Engineering for and with Trustworthy LLMs (LLMTrust 2026).
 ---
 ## Program Committee
-> **TBA.** The program committee will include members from across the AI/ML, trustworthy computing, software engineering, and information theory communities. We are actively inviting members to ensure broad expertise and representation. To express interest in serving, please [contact the organizers]({{ '/contact/' | relative_url }}).
+
+The program committee includes members from across the AI/ML, trustworthy computing, software engineering, and information theory communities.
+
+- Shadman Sakib, University of Maryland Baltimore County
+- Koushik Howlader, Iowa State University
+- Hasan Shahriar, University of Arkansas
+- Seonghun Son, Mercer University
+- Kishor Datta Gupta, Clark Atlanta University
+- Zhonghao Liao, Milwaukee School of Engineering
+- Tirtho Roy, Iowa State University
+- Ibne Farabi Shihab, Amazon
+- Hassan El Alami, Howard University
+- Md Fazle Rabbi, Idaho State University
+- Madhurima Chakraborty, Axiarete.ai
+- Monoshi Kumar Roy, Iowa State University
+- Md Jahangir Alam, UTEP
+- Ragini Gupta, University of Illinois at Urbana-Champaign
+- Ishraq Tashdid, Intel
+- Shafkat Islam, Purdue University Northwest
+- Mayyda Mukhtar, Iowa State University
+- Yuxuan Zhang, University of British Columbia
+
+**We are continuing to invite members to ensure broad expertise and representation. To express interest in serving, please [contact the organizers]({{ '/contact/' | relative_url }}).**
 ---
