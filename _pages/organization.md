@@ -104,5 +104,5 @@ The program committee includes members from across the AI/ML, trustworthy comput
 - Mayyda Mukhtar, Iowa State University
 - Yuxuan Zhang, University of British Columbia
 
-**We are continuing to invite members to ensure broad expertise and representation. To express interest in serving, please [contact the organizers]({{ '/contact/' | relative_url }}).**
+We are continuing to invite members to ensure broad expertise and representation. To express interest in serving, please [contact the organizers]({{ '/contact/' | relative_url }}).
 ---
