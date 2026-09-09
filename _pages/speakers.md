@@ -43,3 +43,22 @@ nav_order: 2
     </div>
   </div>
 </div>
+
+## Invited Talks
+
+<div class="team-container" style="display: flex; flex-direction: column; gap: 2rem;">
+  <div class="team-member" style="display: flex; align-items: flex-start; gap: 1rem;">
+    <img
+      src="{{ '/assets/img/speakers/Mayank.jpg' | relative_url }}"
+      alt="Mayank Kejriwal"
+      style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; flex-shrink: 0;"
+    />
+    <div class="speaker-info" style="text-align: left;">
+      <p style="margin: 0;"><strong><a href="https://viterbi.usc.edu/directory/faculty/Kejriwal/Mayank">Mayank Kejriwal</a></strong></p>
+      <p style="margin: 0 0 0.5rem;"><em>Research Associate Professor of Industrial and Systems Engineering, University of Southern California<br />Principal Scientist, USC Information Sciences Institute</em></p>
+      <p style="margin: 0;"><strong>Title:</strong> TBA</p>
+      <p style="margin: 0;"><strong>Abstract:</strong> TBA</p>
+      <p style="margin: 0;"><strong>Bio:</strong> TBA</p>
+    </div>
+  </div>
+</div>
