@@ -74,7 +74,6 @@ nav_order: 2
   </div>
 </div>
 
-
 ## Invited Talks
 
 <div class="team-container" style="display: flex; flex-direction: column; gap: 2rem;">
