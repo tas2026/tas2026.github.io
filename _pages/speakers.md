@@ -50,11 +50,11 @@ nav_order: 2
       style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; flex-shrink: 0;"
     />
     <div class="speaker-info" style="text-align: left;">
-      <p style="margin: 0;"><strong>Reza Ghanadan</strong> <span style="font-weight: normal;">(shared with <a href="https://sites.google.com/view/aaai-atracc/home">ATRACC '26</a>)</span></p>
+      <p style="margin: 0;"><strong><a href="https://isr.umd.edu/clark/faculty/1998/Reza-Ghanadan">Reza Ghanadan</a></strong> <span style="font-weight: normal;">(shared with <a href="https://sites.google.com/view/aaai-atracc/home">ATRACC '26</a>)</span></p>
       <p style="margin: 0 0 0.5rem;"><em>Professor and Executive Director of Innovations in AI, University of Maryland</em></p>
       <p style="margin: 0;"><strong>Title:</strong> TBA</p>
       <p style="margin: 0;"><strong>Abstract:</strong> TBA</p>
-      <p style="margin: 0;"><strong>Bio:</strong> Dr. Reza Ghanadan is Professor and Executive Director of Innovations in AI at the A. James Clark School of Engineering and the Institute for Systems Research, University of Maryland, where he leads work on AI engineering, robust and trustworthy AI systems, agentic intelligence, and applied AI for science and engineering. He holds affiliated appointments with Maryland's Department of Computer Science, the Artificial Intelligence Interdisciplinary Institute (AIM), and the Center for Machine Learning. His research centers on scalable, reliable, and deployable AI that connects foundational work to real-world use across industry, government, and mission-critical settings. He is an IEEE Fellow.</p>
+      <p style="margin: 0.5rem 0 0;"><strong>Bio:</strong> Dr. Reza Ghanadan is Professor and Executive Director of Innovations in AI at the A. James Clark School of Engineering and the Institute for Systems Research at the University of Maryland, where he leads initiatives in AI engineering, robust and trustworthy AI systems, agentic intelligence, and applied AI for science and engineering. He is an affiliated research professor with the Department of Computer Science at the University of Maryland, the Artificial Intelligence Interdisciplinary Institute at Maryland (AIM), and the Center for Machine Learning at the University of Maryland. His work focuses on advancing scalable, reliable, and deployable AI systems that bridge foundational research with real-world impact across industry, government, and mission-critical applications. He is an IEEE Fellow, recognized for leadership in robust AI technologies and applications.</p>
     </div>
   </div>
 
@@ -65,14 +65,15 @@ nav_order: 2
       style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; flex-shrink: 0;"
     />
     <div class="speaker-info" style="text-align: left;">
-      <p style="margin: 0;"><strong>Raj Dasgupta</strong> <span style="font-weight: normal;">(shared with <a href="https://sites.google.com/view/aaai-atracc/home">ATRACC '26</a>)</span></p>
+      <p style="margin: 0;"><strong><a href="https://sites.google.com/view/rajdasgupta/">Raj Dasgupta</a></strong> <span style="font-weight: normal;">(shared with <a href="https://sites.google.com/view/aaai-atracc/home">ATRACC '26</a>)</span></p>
       <p style="margin: 0 0 0.5rem;"><em>Research Scientist, Distributed Intelligent Systems Section, Naval Research Laboratory</em></p>
       <p style="margin: 0;"><strong>Title:</strong> TBA</p>
       <p style="margin: 0;"><strong>Abstract:</strong> TBA</p>
-      <p style="margin: 0;"><strong>Bio:</strong> Dr. Raj Dasgupta is a research scientist in the Distributed Intelligent Systems Section of the Information Technology Division at the Naval Research Laboratory in Washington, D.C. His group works on AI and machine learning across adversarial AI, reinforcement learning, game theory, and multi-robot and multi-agent systems. From 2001 to 2019 he held the Union Pacific Endowed Professorship in the Computer Science Department at the University of Nebraska, Omaha, where he founded and directed the CMANTIC Robotics Lab and led projects supported by NASA, the Office of Naval Research, and NAVAIR. He is a senior member of IEEE.</p>
+      <p style="margin: 0.5rem 0 0;"><strong>Bio:</strong> Dr. Raj Dasgupta is a research scientist in the Distributed Intelligent Systems Section, Information Technology Division at the Naval Research Laboratory in Washington, D. C. His group does research in the field of AI and machine learning around the areas of adversarial AI, reinforcement learning, game theory and multi-robot/multi-agent systems. From 2001-2019, he was the Union Pacific Endowed Professor (tenured) with the Computer Science Department at the University of Nebraska, Omaha. He established and directed the <a href="https://sites.google.com/view/cmantic/">CMANTIC Robotics Lab</a> there and led several large projects supported by NASA, Office of Naval Research and NAVAIR. He is also a senior member of IEEE.</p>
     </div>
   </div>
 </div>
+
 
 ## Invited Talks
 
@@ -86,9 +87,10 @@ nav_order: 2
     <div class="speaker-info" style="text-align: left;">
       <p style="margin: 0;"><strong><a href="https://viterbi.usc.edu/directory/faculty/Kejriwal/Mayank">Mayank Kejriwal</a></strong></p>
       <p style="margin: 0 0 0.5rem;"><em>Research Associate Professor of Industrial and Systems Engineering, University of Southern California<br />Principal Scientist, USC Information Sciences Institute</em></p>
-      <p style="margin: 0;"><strong>Title:</strong> TBA</p>
-      <p style="margin: 0;"><strong>Abstract:</strong> TBA</p>
-      <p style="margin: 0;"><strong>Bio:</strong> TBA</p>
+      <p style="margin: 0;"><strong>Title:</strong> Building Trustworthy AI Agents for Science</p>
+      <p style="margin: 0.5rem 0 0;"><strong>Abstract:</strong> Scientific discovery depends on much more than experiments alone. Researchers must also keep up with a fast-moving literature, plan projects, analyze results, prepare manuscripts and proposals, and manage many time-consuming tasks that shape whether good science moves forward. In this talk, I will discuss how agentic AI can help researchers and universities work more efficiently across this broader research lifecycle. Rather than serving only as a chatbot, these systems can help with connected tasks such as literature synthesis, scientific writing, grant development, and research communication.</p>
+      <p style="margin: 0.5rem 0 0;">I will describe the emerging idea of an AI scientist and discuss how such systems are beginning to support workflows that can contribute to genuinely novel and reliable scientific findings. I will also briefly review some of the infrastructure behind this vision, including a scientific writing editor, tools for grant writing and research dissemination, and an OpenClaw-based scientific experimentation platform currently being used by researchers at 80+ institutions worldwide. Throughout the talk, I will emphasize practical opportunities for using agentic AI to enhance research productivity while preserving rigor, trust, and human judgment.</p>
+      <p style="margin: 0.5rem 0 0;"><strong>Bio:</strong> Mayank Kejriwal is a research associate professor and principal scientist at the University of Southern California, where he directs a research group on <a href="https://aicomplex.github.io/">Artificial Intelligence and Complex Systems</a> (AICS). His research has been funded by DARPA, NIH and corporate and foundation opportunities, and published in prestigious venues like Science, Nature Communications, PNAS Nexus, and AAAI. He is also CEO and co-founder of <a href="https://enterprise.grailai.io/">GRAIL</a>, an autonomous science company that is building AI agents for amplifying university research.</p>
     </div>
   </div>
 </div>
