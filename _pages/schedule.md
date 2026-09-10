@@ -30,7 +30,7 @@ The following two and one-half day schedule is preliminary and will be finalized
     <tr>
       <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600;">Afternoon</td>
       <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;">
-        Paper Session on robustness and safety; Target-problem working groups (Round 1); evening reception and lightning introductions.
+        Keynote: Raj Dasgupta (Naval Research Laboratory); Paper Session on robustness and safety; Target-problem working groups (Round 1); evening reception and lightning introductions.
       </td>
     </tr>
     <tr>
@@ -47,7 +47,7 @@ The following two and one-half day schedule is preliminary and will be finalized
     <tr>
       <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600;">Afternoon</td>
       <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;">
-        Invited Talk: Mayank Kejriwal (University of Southern California Information Sciences) Distributed and reliable agent computation session; Tool, dataset, and benchmark showcase; Panel on agentic AI and accountability.
+        Keynote: Reza Ghanadan (University of Maryland); Invited Talk: Mayank Kejriwal (University of Southern California); Distributed and reliable agent computation session; Tool, dataset, and benchmark showcase; Panel on agentic AI and accountability.
       </td>
     </tr>
     <tr>
