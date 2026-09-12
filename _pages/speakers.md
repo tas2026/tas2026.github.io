@@ -37,9 +37,12 @@ nav_order: 2
     <div class="speaker-info" style="text-align: left;">
       <p style="margin: 0;"><strong><a href="https://www.nist.gov/people/apostol-vassilev">Apostol Vassilev</a></strong></p>
       <p style="margin: 0 0 0.5rem;"><em>Research Team Supervisor, Security Components Group, Computer Security Division, Information Technology Laboratory, NIST</em></p>
-      <p style="margin: 0;"><strong>Title:</strong> TBA</p>
+      <p style="margin: 0;"><strong>Title:</strong> Maintaining Trust in Agentic AI Systems, When the Guardrails Stop Working</p>
       <p style="margin: 0;"><strong>Abstract:</strong> TBA</p>
-      <p style="margin: 0;"><strong>Bio:</strong> TBA</p>
+      <p style="margin: 0.5rem 0 0;"><strong>Bio:</strong> Apostol Vassilev (ZP-V) is a leading expert in Trustworthy and Responsible AI and Cybersecurity at the National Institute of Standards and Technology (NIST) and the National Cybersecurity Center of Excellence (NCCoE). His work is characterized by a rare fusion of deep theoretical research and practical advances, driving the development of national and international standards that secure the next generation of AI technologies. He is the Principal Investigator of the project on Robustness of Physical AI for self-driving cars at NCCoE. For this work Apostol was named a Top 20 voice in Automotive Cybersecurity for 2026 by Automotive IQ.</p>
+      <p style="margin: 0.5rem 0 0;">Recently, Apostol made a significant contribution to the fundamental understanding of AI safety by extending G&ouml;del's incompleteness theorem to the domain of artificial intelligence. He successfully proved that no finite set of guardrails is universally robust against adaptive adversarial prompts. This landmark result offers a formal mathematical boundary for AI Security and Alignment, suggesting that safety in current and future AI systems cannot be a static achievement but must be a dynamic, evolving process.</p>
+      <p style="margin: 0.5rem 0 0;">Beyond his theoretical breakthroughs, Apostol is a practical force in the AI security community. He serves on the Distinguished Expert Review Board of the OWASP GenAI Security Project and is a founding member of the OWASP AI Vulnerability Scoring System project. His research also focuses on Adversarial Machine Learning (AML) and Robust Physical AI for autonomous vehicles.</p>
+      <p style="margin: 0.5rem 0 0;">With a Ph.D. in Mathematics from Texas A&amp;M University, Apostol has authored over 70 scientific papers and holds five U.S. patents. His leadership and dedication to public service have earned him numerous accolades, including a medal from the U.S. Department of Commerce. A respected authority and frequent conference speaker, his insights are regularly featured in prominent publications such as the Wall Street Journal, Politico, Fortune and Forbes.</p>
     </div>
   </div>
 
