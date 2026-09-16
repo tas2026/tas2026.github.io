@@ -92,52 +92,61 @@ nav_order: 5
 
 The program committee includes members from across the AI/ML, trustworthy computing, software engineering, and information theory communities.
 
-- Md Jahangir Alam, University of Texas at El Paso
-- Hassan El Alami, Howard University
-- Riasad Alvi, United International University, Bangladesh
+- Shiplu Sarker, Iowa State University
 - Ragib Shahariar Ayon, Texas State University
-- Fahim Tasneema Azad, Arizona State University
-- Md Khairul Azman, Texas State University
-- Saleha Begum, University of California, Merced
-- Raviteja Bommireddy, Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram
-- Madhurima Chakraborty, Axiarete.ai
-- Upama Roy Chowdhury, University of New Mexico
-- Sourav Dey, University of Akron
-- Debopriya Roy Dipta, University of Akron
-- Rashmi Elavazhagan, Easwari Engineering College
-- Arijit Ghosh, University of Akron
-- Kishor Datta Gupta, Clark Atlanta University
-- Ragini Gupta, University of Illinois at Urbana-Champaign
 - Alif Al Hasan, Case Western Reserve University
-- Koushik Howlader, Iowa State University
-- Md Shafiqul Islam, Iowa State University
-- Nafisa Islam, University of Akron
 - Shafkat Islam, Purdue University Northwest
+- Kowshik Sankar Roy, Towson University
+- Hasan Shahriar, University of Arkansas
+- Sara El-Ateif, ENSIASD
+- Ishraq Tashdid, Intel
+- Arijit Ghosh, University of Akron
+- Md Zahid Hasan, Iowa State University
+- Chandan Kumar Sah, Beihang University
+- Debopriya Roy Dipta, University of Akron
+- Shadid Yousuf, University of Akron
+- Saleha Begum, University of California Merced
+- Nadia Binte Asif, University of Tennessee at Chattanooga
+- Tasnia Rahman Prome, University of Akron
+- Rashik Intisar Siddiquee, North Carolina State University
+- Md Khairul Azman, Texas State University
+- Shovan Roy, Tennessee Tech University
 - Zhonghao Liao, Milwaukee School of Engineering
 - Adiba Masud, University of Texas at San Antonio
-- Sumaiya Afroz Mila, University of Florida
-- Mayyda Mukhtar, Iowa State University
-- Pramod Begur Nagaraj, Atria Institute of Technology
-- Dewan Fahim Noor, Tuskegee University
-- Erfan Nourbakhsh, University of Texas at San Antonio
-- Tasnia Rahman Prome, University of Akron
-- Sadia Afrin Purba, Temple University
 - Md Fazle Rabbi, Idaho State University
-- Tasnia Rahman, Cleveland State University
-- Monoshi Kumar Roy, Iowa State University
 - Tirtho Roy, Iowa State University
-- Shadman Sakib, University of Maryland, Baltimore County
-- Aftar Ahmad Sami, University of Houston
-- Shiplu Sarker, Iowa State University
-- Hasan Shahriar, University of Arkansas
-- Nowshin Sharmile, North Carolina A&T State University
-- Ibne Farabi Shihab, Iowa State University
-- Rashik Intisar Siddiquee, North Carolina State University
+- Swati Kar, University of Tennessee at Chattanooga
+- Monoshi Kumar Roy, Iowa State University
+- Md Mahbubur Rahman, Iowa State University
+- Mohammad Yahyaei, Case Western Reserve University
+- Sourav Dey, University of Akron
+- Jitong Zou, Case Western Reserve University
+- Ibne Farabi Shihab, Amazon
+- Ragini Gupta, University of Illinois at Urbana-Champaign
+- Muhammad Rehman Zafar, Toronto Metropolitan University
+- Sumaiya Afroz Mila, University of Florida
+- Jérémie Lumbroso, University of Pennsylvania
+- Koushik Howlader, Iowa State University
+- Nafisa Islam, University of Akron
+- Md Jahangir Alam, UTEP
+- Upama Roy Chowdhury, University of New Mexico
+- Nusaiba Kalam, Iowa State University
+- Md Shafiqul Islam, Iowa State University
+- Tanim Ahmed, Iowa State University
 - Seonghun Son, Mercer University
-- Ishraq Tashdid, University of Central Florida
-- Mohammad Wardat, Oakland University
-- Shadid Yousuf, University of Akron
-- Muhammad Rehman Zafar, Bahria University, Islamabad
-- Yuxuan Zhang, University of British Columbia
-
-We are continuing to invite members to ensure broad expertise and representation. To express interest in serving, please [contact the organizers]({{ '/contact/' | relative_url }}).
+- Aftar Ahmad Sami, University of Houston
+- Aditya Saxena, Kalinga Institute of Industrial Technology
+- Sayma Sultana, Tulane University
+- Sadia Afrin Purba, Temple University
+- Shadman Sakib, University of Maryland Baltimore County
+- Fahim Tasneema Azad, Arizona State University
+- Nowshin Sharmile, North Carolina A&T State University
+- Hassan El Alami, Howard University
+- Tasnia Rahman, Cleveland State University
+- Rashmi Elavazhagan, Independent Researcher
+- Sadri Islam, Kennesaw State University
+- Dewan Fahim Noor, Tuskegee University
+- Riasad Alvi, United International University
+- Mayyda Mukhtar, Iowa State University
+- Raviteja Bommireddy, IIITDM Kancheepuram
+- Rakib Ul Haque, UT San Antonio
