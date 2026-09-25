@@ -82,6 +82,42 @@ nav_order: 2
 <div class="team-container" style="display: flex; flex-direction: column; gap: 2rem;">
   <div class="team-member" style="display: flex; align-items: flex-start; gap: 1rem;">
     <img
+      src="{{ '/assets/img/speakers/John.jpg' | relative_url }}"
+      alt="John E. Derrick"
+      style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; flex-shrink: 0;"
+    />
+    <div class="speaker-info" style="text-align: left;">
+      <p style="margin: 0;"><strong>John E. Derrick</strong></p>
+      <p style="margin: 0 0 0.5rem;"><em>Founder and Chief Executive Officer, <a href="https://authentrics.ai/">Authentrics.ai</a></em></p>
+      <p style="margin: 0;"><strong>Title:</strong> Diff, Trace, and Patch: Independent Analysis, Monitoring, Control, and Correction of Fine-Tuned Open-Weight Models at the Checkpoint Level</p>
+      <p style="margin: 0.5rem 0 0;"><strong>Abstract:</strong></p>
+      <p style="margin: 0.5rem 0 0;"><em>Summary of Key Points</em></p>
+      <p style="margin: 0.25rem 0 0;">Premise: independent monitoring &amp; control of model internals are a safety requirement.</p>
+      <ul style="margin: 0.25rem 0 0; padding-left: 1.25rem;">
+        <li>Input&ndash;output evaluation alone cannot reveal or remediate learned behavior; assurance requires inspection and control of internal weights.</li>
+        <li>Tools independent of the training pipeline enable V&amp;V, auditability, and governance of fine-tuned open-weight models.</li>
+        <li>Local, checkpoint-based operation keeps weights and training data on-premise and supports data-removal obligations (e.g., GDPR, CCPA).</li>
+      </ul>
+      <p style="margin: 0.5rem 0 0;">Mechanisms</p>
+      <ul style="margin: 0.25rem 0 0; padding-left: 1.25rem;">
+        <li>Analysis: differencing of model behavior across checkpoints; tracing through weights and activations to attribute outputs to training data.</li>
+        <li>Correction: targeted checkpoint patching, without rollback, to remove corrupted epochs, poisoned batches, or protected data; reported correction-cost reductions exceed 90%.</li>
+        <li>Accuracy improvement: global tuning without additional data or training cycles.</li>
+      </ul>
+      <p style="margin: 0.5rem 0 0;"><em>Key Takeaways</em></p>
+      <ul style="margin: 0.25rem 0 0; padding-left: 1.25rem;">
+        <li>Trustworthy agentic systems presuppose trustworthy models; assurance must extend to model internals.</li>
+        <li>Existing training checkpoints are sufficient to analyze, monitor, and correct fine-tuned open-weight models.</li>
+        <li>Weight-level remediation offers a lower-cost alternative to full retraining.</li>
+        <li>Attribution and machine unlearning make regulatory compliance and auditing tractable.</li>
+        <li>On-premise analysis reconciles data protection with oversight requirements in government and industry.</li>
+      </ul>
+      <p style="margin: 0.5rem 0 0;"><strong>Bio:</strong> John E. Derrick founded Authentrics.ai (Knoxville, TN) in 2023 to address the opacity of neural networks. The company&rsquo;s checkpoint-native platform provides weight-level attribution, monitoring, and correction for mission-critical AI without retraining, supporting verification and validation (V&amp;V) for defense and commercial users. Mr. Derrick has 34 years of experience in information science and artificial intelligence, has advised or lead numerous commercial and government funded projects spanning multi-spectral, LLM, advanced manufacturing, and numeric use cases. Inventor on 20 patents, advised / mentored for numerous companies, and mentor/advisor for Innovation Crossroads, Yale EIR, and others.</p>
+    </div>
+  </div>
+
+  <div class="team-member" style="display: flex; align-items: flex-start; gap: 1rem;">
+    <img
       src="{{ '/assets/img/speakers/Mayank.jpg' | relative_url }}"
       alt="Mayank Kejriwal"
       style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; flex-shrink: 0;"
