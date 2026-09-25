@@ -1,109 +1,121 @@
 ---
 layout: page
-title: Schedule
-permalink: /schedule/
+title: "Accepted Contributions"
+permalink: /accepted/
 nav: true
-nav_order: 6
-nav_title: Schedule
+nav_order: 4
+nav_title: "Papers"
 ---
 
-# Schedule
+<p align="center">
+  <img src="{{ '/assets/img/rtas-logo.svg' | relative_url }}" alt="TAS 2026 Logo" style="max-width:160px;" />
+</p>
 
-**Dates:** November 5&ndash;7, 2026
-**Venue:** Westin Arlington, Arlington, Virginia, USA (AAAI 2026 Fall Symposium Series)
+# Accepted Contributions
 
-Speaker details are on the [Speakers page]({{ '/speakers/' | relative_url }}), and the papers in each session are listed on the [Accepted Contributions page]({{ '/accepted/' | relative_url }}). Keynotes are 45 minutes; paper talks are 15 minutes including questions.
+TAS 2026 accepted 29 contributions: 19 oral presentations and 10 posters. See the [Schedule]({{ '/schedule/' | relative_url }}) for session times.
 
-<div style="overflow-x:auto;">
-<table style="width:100%; border-collapse:collapse; margin:1.5rem 0; font-size:0.95rem;">
-  <tbody>
-    <tr>
-      <th colspan="2" style="text-align:left; padding:0.6rem 0.75rem; background:#0a3d8f; color:#fff; border:1px solid #0a3d8f;">Day 1: Thursday, November 5</th>
-    </tr>
-    <tr>
-      <td style="width:150px; padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap;">9:00&ndash;10:30 am</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;"><strong>Opening and Invited Speakers</strong><br>Welcome and framing remarks<br>Keynote: Apostol Vassilev (NIST), <em>Maintaining Trust in Agentic AI Systems, When the Guardrails Stop Working</em><br>Invited Talk: John E. Derrick (Authentrics.ai), <em>Diff, Trace, and Patch</em></td>
-    </tr>
-    <tr>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap; color:#57606a;">10:30&ndash;11:00 am</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top; color:#57606a;">Break</td>
-    </tr>
-    <tr>
-      <td style="width:150px; padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap;">11:00 am&ndash;12:30 pm</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;"><strong>Paper Session 1: Authorization, Permissions, and Runtime Guardrails</strong> (5 talks)</td>
-    </tr>
-    <tr>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap; color:#57606a;">12:30&ndash;2:00 pm</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top; color:#57606a;">Lunch</td>
-    </tr>
-    <tr>
-      <td style="width:150px; padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap;">2:00&ndash;3:30 pm</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;">Keynote (shared with ATRACC 2026): Raj Dasgupta (Naval Research Laboratory)<br><strong>Paper Session 2: Security and Federated Learning</strong> (4 talks)</td>
-    </tr>
-    <tr>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap; color:#57606a;">3:30&ndash;4:00 pm</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top; color:#57606a;">Break</td>
-    </tr>
-    <tr>
-      <td style="width:150px; padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap;">4:00&ndash;5:00 pm</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;"><strong>Target-Problem Working Groups</strong> (Round 1)</td>
-    </tr>
-    <tr>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap; color:#57606a;">5:30&ndash;6:30 pm</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top; color:#57606a;">Reception</td>
-    </tr>
-    <tr>
-      <th colspan="2" style="text-align:left; padding:0.6rem 0.75rem; background:#0a3d8f; color:#fff; border:1px solid #0a3d8f;">Day 2: Friday, November 6</th>
-    </tr>
-    <tr>
-      <td style="width:150px; padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap;">9:00&ndash;10:30 am</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;">Keynote: Vladimir Pavlovic (NSF / Rutgers)<br><strong>Paper Session 3A: Evaluation, Auditing, and Benchmarking</strong> (3 talks)</td>
-    </tr>
-    <tr>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap; color:#57606a;">10:30&ndash;11:00 am</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top; color:#57606a;">Break</td>
-    </tr>
-    <tr>
-      <td style="width:150px; padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap;">11:00 am&ndash;12:30 pm</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;"><strong>Paper Session 3B: Evaluation, Auditing, and Benchmarking</strong> (2 talks)<br>Tool, Dataset, and Benchmark Showcase and open discussion</td>
-    </tr>
-    <tr>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap; color:#57606a;">12:30&ndash;2:00 pm</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top; color:#57606a;">Lunch</td>
-    </tr>
-    <tr>
-      <td style="width:150px; padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap;">2:00&ndash;3:30 pm</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;">Keynote (shared with ATRACC 2026): Reza Ghanadan (University of Maryland)<br>Invited Talk: Mayank Kejriwal (University of Southern California), <em>Building Trustworthy AI Agents for Science</em></td>
-    </tr>
-    <tr>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap; color:#57606a;">3:30&ndash;4:00 pm</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top; color:#57606a;">Break</td>
-    </tr>
-    <tr>
-      <td style="width:150px; padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap;">4:00&ndash;5:00 pm</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;"><strong>Poster Session</strong> (10 posters; time and location subject to AAAI poster assignment)</td>
-    </tr>
-    <tr>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap; color:#57606a;">5:30&ndash;6:30 pm</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top; color:#57606a;">Plenary Session</td>
-    </tr>
-    <tr>
-      <th colspan="2" style="text-align:left; padding:0.6rem 0.75rem; background:#0a3d8f; color:#fff; border:1px solid #0a3d8f;">Day 3: Saturday, November 7</th>
-    </tr>
-    <tr>
-      <td style="width:150px; padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap;">9:00&ndash;10:30 am</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;"><strong>Paper Session 4: Governance, Accountability, and Human&ndash;AI Delegation</strong> (5 talks)</td>
-    </tr>
-    <tr>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap; color:#57606a;">10:30&ndash;11:00 am</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top; color:#57606a;">Break</td>
-    </tr>
-    <tr>
-      <td style="width:150px; padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap;">11:00 am&ndash;12:30 pm</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;"><strong>Target-Problem Working Groups</strong> (Round 2); breakout reports; synthesis of the community research roadmap; closing remarks</td>
-    </tr>
-  </tbody>
-</table>
-</div>
+## Paper Session 1: Authorization, Permissions, and Runtime Guardrails
+*Thursday, November 5, 11:00 am&ndash;12:30 pm*
 
-The schedule is subject to change. Session chairs will be announced shortly.
+**Where the Guarantee Stops: Safe-Delivery Boundaries for Verification-Gated SLM Agents**<br>
+Narcisse Rufin Kengne Sakeng, Hajar Moudoud, and Zakaria Abou El Houda
+
+**Incomparable Minima in Agent Tool Authorization**<br>
+Xin Xu
+
+**Who Authorized That? A Preliminary Benchmark of Third-Party Permission Boundaries in Local LLM Agents**<br>
+Varshitha Manjunath, Srimonti Dutta, and Akshata Kishore Moharir
+
+**Authorization Before Action: Prompt and Runtime Safeguards for Local Medical-Billing Agents**<br>
+Varshitha Manjunath and Srimonti Dutta
+
+**Same Numbers, Stale Permission: Operation-Scoped Receipts for Statistical Agents**<br>
+Hema Raju Barri and Chandana Charitha Peddinti
+
+## Paper Session 2: Security and Federated Learning
+*Thursday, November 5, 2:45&ndash;3:30 pm and 4:00&ndash;4:15 pm*
+
+**Trajectory-Level Security Debt in LLM Coding Agents**<br>
+Prateek Rajput, Abdoul Kader Kabore, Yewei Song, Mélissa Tessa, Tailia Malloy, Jacques Klein, and Tegawendé F. Bissyandé
+
+**Agentic Small Language Models for Closed-Loop Provenance-Based Intrusion Detection**<br>
+Abderrahman Elhajjout, Zakaria Abou El Houda, Zahi Jarir, Alan Davoust, and Hajar Moudoud
+
+**ATLAS: Adaptive Task-Aware Federated Learning with Heterogeneous LoRA and Split Learning for Edge LLMs**<br>
+Mahmoud S. Mayaleh, Zakaria Abou El Houda, and Lyes Khoukhi
+
+**Internal Coherence Maximization under Decentralized Data**<br>
+Zhangfei Yang and Aizierjiang Aiersilan
+
+## Paper Session 3: Evaluation, Auditing, and Benchmarking
+*Friday, November 6, 9:45&ndash;10:30 am and 11:00&ndash;11:30 am*
+
+**Trace Integrity for LLM Data Agents: Auditing Structured-Data Computation Beyond Answer Accuracy in Real-World Systems**<br>
+Srimonti Dutta and Akshata Kishore Moharir
+
+**Measuring Trust in Agentic Advertising Systems: The ERA Framework and Its Ontology-Grounded Instantiation**<br>
+Satyajeet Raje and Jose David Aguas Lopes
+
+**Who Gets Flagged? The Pluralistic Evaluation Gap in AI Content Watermarking**<br>
+Alexander Nemecek, Osama Zafar, Yuqiao Xu, Wenbiao Li, and Erman Ayday
+
+**Does the Agent Follow the Evidence? Counterfactual Auditing for Trustworthy Multimodal Health Agents**<br>
+Shadman Sakib and Nirmalya Roy
+
+**Invalid Is Not Failure: Infrastructure Censoring Bias in Long-Horizon Agent Evaluation**<br>
+Shilin Chhabra
+
+## Paper Session 4: Governance, Accountability, and Human&ndash;AI Delegation
+*Saturday, November 7, 9:00&ndash;10:30 am*
+
+**When Agents Hire Humans: Auditing Accountability Gaps in a Production Marketplace**<br>
+Pulak Mehta and Rajas Kshirsagar
+
+**AIGOps 2.0: A Practical Framework for Continuous EU AI Act Compliance in Enterprise AI Pipelines**<br>
+Manish Gupta
+
+**Agentic AI: Trustworthy Autonomous Decision Making Systems**<br>
+Kalpan Dharamshi
+
+**General-Purpose Agent Orchestrators as Lightweight MLOps Control Planes for Small Teams: A Controlled Feasibility Study**<br>
+Oshin Anand
+
+**Doing Less with More: A First-Principles Exploration of the Suitability of Agentic Computing over Alternative Architectural Choices**<br>
+Ritvik Garimella, Biplav Srivastava, and Amit Sheth
+
+## Poster Session
+*Lightning talks: Thursday, November 5, 4:15&ndash;5:00 pm*<br>
+*Poster session: Friday, November 6, 4:00&ndash;5:00 pm (time and location subject to AAAI poster assignment)*
+
+**Certified Agent Graphs: Compiling Verifiable Trust Invariants into LangGraph Execution**<br>
+Anand Sakharam Pimparkar
+
+**Version-Bound Assurance at Agent Decision Boundaries: Binding Provenance, Execution, and Delegated Authority**<br>
+Kenneth Aiello
+
+**IoTSplit: Teacher-Guided Federated IoT Intrusion Detection Using Small Language Models**<br>
+Abderrahman Elhajjout, Hajar Moudoud, and Zakaria Abou El Houda
+
+**Trusted Warnings, Untrusted Context: Security-UI Preconditioning in Mobile LLM Agents**<br>
+Mahmoud Nazzal, Muhammad Rabiu, and Yue Xiao
+
+**Toward System-Level Test and Evaluation of Agentic AI Systems: Assurance, Measurement, and Bounded Trust**<br>
+Jim Lockett and Elena Charnetzki
+
+**Beyond Outcomes: Benchmarking Trace-Derived Metrics for Goal Drift Detection in LLM Agents**<br>
+Michael Briggs, Nadia Amdemariam, Rosaura Arvizu Guzman, Anna Pham, Lawrence Phan, Vivek Tarapara, and Than Vu
+
+**FedCreamCS: Federated Contrastive Representation Ensemble and Aggregation for Concept Segmentation**<br>
+Qiwei Xiao
+
+**Personalized Federated Direct Preference Optimization via LoRA Adapters**<br>
+Zhanhong Jiang and Soumik Sarkar
+
+**Cybernetic and Epistemic: A Missing Vocabulary for Trustworthy Agentic Delegation**<br>
+Jérémie Lumbroso
+
+**Interchangeable Agency: Anticipated Replacement Creates Legibility Pressure in Human&ndash;AI Handoffs**<br>
+Jun Yuan
+
+Accepted contributions are subject to final camera-ready submission and registration requirements. Please see the [Call for Participation]({{ '/call-for-papers/' | relative_url }}) for details.
