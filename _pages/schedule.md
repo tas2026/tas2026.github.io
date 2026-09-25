@@ -1,16 +1,18 @@
 ---
 layout: page
-title: Schedule
+title: Tentative Schedule
 permalink: /schedule/
 nav: true
 nav_order: 6
 nav_title: Schedule
 ---
 
-# Schedule
+# Tentative Schedule
 
 **Dates:** November 5&ndash;7, 2026
 **Venue:** Westin Arlington, Arlington, Virginia, USA (AAAI 2026 Fall Symposium Series)
+
+<em>Tentative schedule: the final program depends on camera-ready submission and author registration, and sessions may be adjusted accordingly.</em>
 
 Speaker details are on the [Speakers page]({{ '/speakers/' | relative_url }}), and the papers in each session are listed on the [Accepted Contributions page]({{ '/accepted/' | relative_url }}). Keynotes are 45 minutes; paper talks are 15 minutes including questions.
 
