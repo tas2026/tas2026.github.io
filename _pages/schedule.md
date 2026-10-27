@@ -59,7 +59,7 @@ Speaker details are on the [Speakers page]({{ '/speakers/' | relative_url }}), a
     </tr>
     <tr>
       <td style="width:150px; padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap;">9:00&ndash;10:30 am</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;"><strong>Paper Session 3A: Evaluation, Auditing, and Benchmarking</strong> (3 talks)</td>
+      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;">Keynote: TBD <strong>Paper Session 3A: Evaluation, Auditing, and Benchmarking</strong> (3 talks)</td>
     </tr>
     <tr>
       <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap; color:#57606a;">10:30&ndash;11:00 am</td>
