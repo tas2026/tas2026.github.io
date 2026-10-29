@@ -40,7 +40,7 @@ Speaker details are on the [Speakers page]({{ '/speakers/' | relative_url }}), a
     </tr>
     <tr>
       <td style="width:150px; padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap;">2:00&ndash;3:30 pm</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;">Keynote (shared with ATRACC 2026): Raj Dasgupta (Naval Research Laboratory)<br><strong>Paper Session 2: Security and Federated Learning</strong> (3 talks)</td>
+      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;"><strong>Paper Session 2: Security and Federated Learning</strong> (4 talks)</td>
     </tr>
     <tr>
       <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap; color:#57606a;">3:30&ndash;4:00 pm</td>
@@ -48,7 +48,7 @@ Speaker details are on the [Speakers page]({{ '/speakers/' | relative_url }}), a
     </tr>
     <tr>
       <td style="width:150px; padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap;">4:00&ndash;5:00 pm</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;"><strong>Paper Session 2</strong> (continued, 1 talk)<br><strong>Poster Lightning Talks</strong>: brief introductions from the poster presenters</td>
+      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;"><strong>Poster Lightning Talks</strong>: brief introductions from the poster presenters</td>
     </tr>
     <tr>
       <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap; color:#57606a;">5:30&ndash;6:30 pm</td>
@@ -94,7 +94,7 @@ Speaker details are on the [Speakers page]({{ '/speakers/' | relative_url }}), a
     </tr>
     <tr>
       <td style="width:150px; padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap;">9:00&ndash;10:30 am</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;">Invited Talk: Jim Lockett and Elena Charnetzki (The MITRE Corporation)<br><strong>Paper Session 4: Governance, Accountability, and Human&ndash;AI Delegation</strong> (5 talks)</td>
+      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;"><strong>Paper Session 4: Governance, Accountability, and Human&ndash;AI Delegation</strong> (3 talks)<br>9:30 am: TBD</td>
     </tr>
     <tr>
       <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap; color:#57606a;">10:30&ndash;11:00 am</td>
@@ -102,7 +102,7 @@ Speaker details are on the [Speakers page]({{ '/speakers/' | relative_url }}), a
     </tr>
     <tr>
       <td style="width:150px; padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap;">11:00 am&ndash;12:30 pm</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;"><strong>Target-Problem Working Groups</strong> (breakout sessions); breakout reports and synthesis of the community research roadmap; closing remarks</td>
+      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;"><strong>Paper Session 4</strong> (continued, 2 talks)<br>11:30 am: Invited Talk: Jim Lockett and Elena Charnetzki (The MITRE Corporation)<br>12:15 pm: Closing remarks</td>
     </tr>
   </tbody>
 </table>
