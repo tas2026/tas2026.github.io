@@ -8,7 +8,7 @@ nav_order: 2
 
 ## Keynote Speakers
 
-<p>Additional speakers will be announced here as they are confirmed. Speakers marked as shared are jointly hosted with <a href="https://sites.google.com/view/aaai-atracc/home">ATRACC 2026</a>, a co-located AAAI Fall Symposium.</p>
+Speakers marked as shared are jointly hosted with <a href="https://sites.google.com/view/aaai-atracc/home">ATRACC 2026</a>, a co-located AAAI Fall Symposium.</p>
 
 <br />
 
