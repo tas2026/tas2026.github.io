@@ -31,6 +31,22 @@ nav_order: 2
       <p style="margin: 0.5rem 0 0;">With a Ph.D. in Mathematics from Texas A&amp;M University, Apostol has authored over 70 scientific papers and holds five U.S. patents. His leadership and dedication to public service have earned him numerous accolades, including a medal from the U.S. Department of Commerce. A respected authority and frequent conference speaker, his insights are regularly featured in prominent publications such as the Wall Street Journal, Politico, Fortune and Forbes.</p>
     </div>
   </div>
+   <div class="team-member" style="display: flex; align-items: flex-start; gap: 1rem;">
+    <img
+      src="{{ '/assets/img/speakers/Vladimir.jpg' | relative_url }}"
+      alt="Vladimir Pavlovic"
+      style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; flex-shrink: 0;"
+    />
+    <div class="speaker-info" style="text-align: left;">
+      <p style="margin: 0;"><strong><a href="https://www.cs.rutgers.edu/people/professors/details/vladimir-pavlovic">Vladimir Pavlovic</a></strong></p>
+      <p style="margin: 0 0 0.5rem;"><em>Program Director, CISE/IIS, National Science Foundation<br />Professor of Computer Science, Rutgers University</em></p>
+      <p style="margin: 0;"><strong>Title:</strong> Seeing Is Not Remembering: Toward Grounded, Trustworthy Multimodal Agents</p>
+      <p style="margin: 0;"><strong>Abstract:</strong> TBA</p>
+      <p style="margin: 0.5rem 0 0;"><strong>Bio:</strong> Vladimir Pavlovic is a Professor of Computer Science at Rutgers University, where for more than twenty years he has led the SEQAM Lab. His work in probabilistic machine learning covers structured and multimodal data and has increasingly focused on the reliability of foundation models and agents built on that data. His group has developed training-free methods for detecting hallucinations in large vision-language models. It has also used interpretability to identify the internal &ldquo;circuits&rdquo; that support visual reasoning and to make models more robust out-of-distribution. Recent work includes MemEye, a benchmark demonstrating that current multimodal agents fail to retain the visual evidence needed for long-horizon reasoning, and ECTraj, a method for fast multi-agent trajectory prediction.</p>
+      <p style="margin: 0.5rem 0 0;">From 2022 to 2026 he served as a Program Director in NSF&rsquo;s Division of Information and Intelligent Systems. There, he set a national funding strategy for AI and machine learning and managed a portfolio of more than 150 awards. He also developed or co-developed programs totaling over $200M. These include the $20M Safe Learning-Enabled Systems program, created with Open Philanthropy and Good Ventures to fund research on AI systems whose safety can be assured with high confidence. They also include the $8.5M Mathematical Foundations of AI program and the $6M AI for Mathematical Reasoning program, which grew out of a National Academies workshop he helped convene. He also led the US-Singapore Workshop on Responsible AI, which brought together government, academic, and industry partners from Singapore, Thailand, Malaysia, and Vietnam.</p>
+      <p style="margin: 0.5rem 0 0;">Earlier, he directed the Samsung AI Center Cambridge and was a Research Scientist at Google Research. He served as Program Chair of CVPR 2026, where he launched the first large-scale compute-transparency initiative at a major AI conference. He has authored nearly 300 peer-reviewed publications, holds five U.S. patents, and received his Ph.D. from the University of Illinois at Urbana-Champaign.</p>
+    </div>
+  </div>
 
   <div class="team-member" style="display: flex; align-items: flex-start; gap: 1rem;">
     <img
@@ -115,6 +131,21 @@ nav_order: 2
       <p style="margin: 0.5rem 0 0;"><strong>Abstract:</strong> Scientific discovery depends on much more than experiments alone. Researchers must also keep up with a fast-moving literature, plan projects, analyze results, prepare manuscripts and proposals, and manage many time-consuming tasks that shape whether good science moves forward. In this talk, I will discuss how agentic AI can help researchers and universities work more efficiently across this broader research lifecycle. Rather than serving only as a chatbot, these systems can help with connected tasks such as literature synthesis, scientific writing, grant development, and research communication.</p>
       <p style="margin: 0.5rem 0 0;">I will describe the emerging idea of an AI scientist and discuss how such systems are beginning to support workflows that can contribute to genuinely novel and reliable scientific findings. I will also briefly review some of the infrastructure behind this vision, including a scientific writing editor, tools for grant writing and research dissemination, and an OpenClaw-based scientific experimentation platform currently being used by researchers at 80+ institutions worldwide. Throughout the talk, I will emphasize practical opportunities for using agentic AI to enhance research productivity while preserving rigor, trust, and human judgment.</p>
       <p style="margin: 0.5rem 0 0;"><strong>Bio:</strong> Mayank Kejriwal is a research associate professor and principal scientist at the University of Southern California, where he directs a research group on <a href="https://aicomplex.github.io/">Artificial Intelligence and Complex Systems</a> (AICS). His research has been funded by DARPA, NIH and corporate and foundation opportunities, and published in prestigious venues like Science, Nature Communications, PNAS Nexus, and AAAI. He is also CEO and co-founder of <a href="https://enterprise.grailai.io/">GRAIL</a>, an autonomous science company that is building AI agents for amplifying university research.</p>
+    </div>
+  </div>
+
+  <div class="team-member" style="display: flex; align-items: flex-start; gap: 1rem;">
+    <img
+      src="{{ '/assets/img/speaker.png' | relative_url }}"
+      alt="Jim Lockett and Elena Charnetzki"
+      style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; flex-shrink: 0;"
+    />
+    <div class="speaker-info" style="text-align: left;">
+      <p style="margin: 0;"><strong>Jim Lockett and Elena Charnetzki</strong></p>
+      <p style="margin: 0 0 0.5rem;"><em>The MITRE Corporation</em></p>
+      <p style="margin: 0;"><strong>Title:</strong> TBA</p>
+      <p style="margin: 0;"><strong>Abstract:</strong> TBA</p>
+      <p style="margin: 0;"><strong>Bio:</strong> TBA</p>
     </div>
   </div>
 </div>
