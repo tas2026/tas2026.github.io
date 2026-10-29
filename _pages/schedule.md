@@ -59,7 +59,7 @@ Speaker details are on the [Speakers page]({{ '/speakers/' | relative_url }}), a
     </tr>
     <tr>
       <td style="width:150px; padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap;">9:00&ndash;10:30 am</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;">Keynote: TBD <strong>Paper Session 3A: Evaluation, Auditing, and Benchmarking</strong> (3 talks)</td>
+      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;"><strong>Paper Session 3A: Evaluation, Auditing, and Benchmarking</strong> (2 talks)<br>9:30 am: Keynote (shared with ATRACC 2026): Vladimir Pavlovic (Rutgers University), <em>Seeing Is Not Remembering: Toward Grounded, Trustworthy Multimodal Agents</em></td>
     </tr>
     <tr>
       <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap; color:#57606a;">10:30&ndash;11:00 am</td>
@@ -67,7 +67,7 @@ Speaker details are on the [Speakers page]({{ '/speakers/' | relative_url }}), a
     </tr>
     <tr>
       <td style="width:150px; padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap;">11:00 am&ndash;12:30 pm</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;"><strong>Paper Session 3B: Evaluation, Auditing, and Benchmarking</strong> (2 talks)<br><strong>Panel: Agentic AI and Accountability</strong> (tentative)</td>
+      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;"><strong>Paper Session 3B: Evaluation, Auditing, and Benchmarking</strong> (3 talks)<br>11:45 am: <strong>Panel: Agentic AI and Accountability</strong> (tentative)</td>
     </tr>
     <tr>
       <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap; color:#57606a;">12:30&ndash;2:00 pm</td>
@@ -94,7 +94,7 @@ Speaker details are on the [Speakers page]({{ '/speakers/' | relative_url }}), a
     </tr>
     <tr>
       <td style="width:150px; padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap;">9:00&ndash;10:30 am</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;"><strong>Paper Session 4: Governance, Accountability, and Human&ndash;AI Delegation</strong> (5 talks)</td>
+      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;">Invited Talk: Jim Lockett and Elena Charnetzki (The MITRE Corporation)<br><strong>Paper Session 4: Governance, Accountability, and Human&ndash;AI Delegation</strong> (5 talks)</td>
     </tr>
     <tr>
       <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap; color:#57606a;">10:30&ndash;11:00 am</td>
