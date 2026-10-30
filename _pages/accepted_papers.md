@@ -15,8 +15,8 @@ nav_title: "Papers"
 
 The TAS 2026 program includes 24 contributions: 14 oral presentations and 10 posters. Numbers in brackets are EasyChair submission IDs, as used in the [Schedule]({{ '/schedule/' | relative_url }}).
 
-## Paper Session 1: Assurance, Security, and Federated Learning
-*Thursday, November 5, 11:45 am&ndash;12:30 pm and 3:00&ndash;3:30 pm*
+## Paper Session 1A: Assurance and Security
+*Thursday, November 5, 11:45 am&ndash;12:30 pm*
 
 **[6515] Where the Guarantee Stops: Safe-Delivery Boundaries for Verification-Gated SLM Agents**<br>
 Narcisse Rufin Kengne Sakeng, Hajar Moudoud, and Zakaria Abou El Houda
@@ -27,31 +27,16 @@ Prateek Kumar Rajput, Abdoul Kader Kabore, Yewei Song, Mélissa Tessa, Tailia Ma
 **[2351] Agentic Small Language Models for Closed-Loop Provenance-Based Intrusion Detection**<br>
 Abderrahman Elhajjout, Zakaria Abou El Houda, Zahi Jarir, Alan Davoust, and Hajar Moudoud
 
+## Paper Session 1B: Federated and Decentralized Learning
+*Thursday, November 5, 3:00&ndash;3:30 pm*
+
 **[6072] ATLAS: Adaptive Task-Aware Federated Learning with Heterogeneous LoRA and Split Learning for Edge LLMs**<br>
 Mahmoud S. Mayaleh, Zakaria Abou El Houda, and Lyes Khoukhi
 
 **[3263] Internal Coherence Maximization Under Decentralized Data**<br>
 Zhangfei Yang and Aizierjiang Aiersilan
 
-## Paper Session 2: Evaluation, Auditing, and Benchmarking
-*Friday, November 6, 9:00&ndash;9:30 am and 11:00 am&ndash;12:00 pm*
-
-**[6549] Trace Integrity for LLM Data Agents: Auditing Structured-Data Computation Beyond Answer Accuracy in Real-World Systems**<br>
-Srimonti Dutta and Akshata Kishore Moharir
-
-**[9807] Measuring Trust in Agentic Advertising Systems: The ERA Framework and Its Ontology-Grounded Instantiation**<br>
-Satyajeet Raje, Jose David Aguas Lopes, Piotr Kostrzeński, and Tiago Ramos
-
-**[9694] Who Gets Flagged? The Pluralistic Evaluation Gap in AI Content Watermarking**<br>
-Alexander Nemecek, Osama Zafar, Yuqiao Xu, Wenbiao Li, and Erman Ayday
-
-**[9954] Does the Agent Follow the Evidence? Counterfactual Auditing for Trustworthy Multimodal Health Agents**<br>
-Shadman Sakib and Nirmalya Roy
-
-**[7658] Invalid Is Not Failure: Infrastructure Censoring Bias in Long-Horizon Agent Evaluation**<br>
-Shilin Chhabra
-
-## Paper Session 3: Agentic Systems in Practice
+## Paper Session 1C: Designing and Deploying Trustworthy Agentic Systems
 *Thursday, November 5, 4:00&ndash;5:00 pm*
 
 **[6530] General-Purpose Agent Orchestrators as Lightweight MLOps Control Planes for Small Teams: A Controlled Feasibility Study**<br>
@@ -65,6 +50,27 @@ Ritvik Garimella, Biplav Srivastava, and Amit Sheth
 
 **[7608] Trusted Warnings, Untrusted Context: Security-UI Preconditioning in Mobile LLM Agents**<br>
 Mahmoud Nazzal, Muhammad Rabiu, and Yue Xiao
+
+## Paper Session 2A: Evaluation, Auditing, and Benchmarking
+*Friday, November 6, 9:00&ndash;9:30 am*
+
+**[6549] Trace Integrity for LLM Data Agents: Auditing Structured-Data Computation Beyond Answer Accuracy in Real-World Systems**<br>
+Srimonti Dutta and Akshata Kishore Moharir
+
+**[9807] Measuring Trust in Agentic Advertising Systems: The ERA Framework and Its Ontology-Grounded Instantiation**<br>
+Satyajeet Raje, Jose David Aguas Lopes, Piotr Kostrzeński, and Tiago Ramos
+
+## Paper Session 2B: Evaluation, Auditing, and Benchmarking
+*Friday, November 6, 11:00&ndash;11:45 am*
+
+**[9694] Who Gets Flagged? The Pluralistic Evaluation Gap in AI Content Watermarking**<br>
+Alexander Nemecek, Osama Zafar, Yuqiao Xu, Wenbiao Li, and Erman Ayday
+
+**[9954] Does the Agent Follow the Evidence? Counterfactual Auditing for Trustworthy Multimodal Health Agents**<br>
+Shadman Sakib and Nirmalya Roy
+
+**[7658] Invalid Is Not Failure: Infrastructure Censoring Bias in Long-Horizon Agent Evaluation**<br>
+Shilin Chhabra
 
 ## Poster Session
 *Poster session: Friday, November 6, 4:00&ndash;5:00 pm (time and location subject to AAAI poster assignment)*
