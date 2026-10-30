@@ -30,7 +30,7 @@ Speaker details are on the [Speakers page]({{ '/speakers/' | relative_url }}), a
     </tr>
     <tr>
       <td style="width:150px; padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap;">11:00 am&ndash;12:30 pm</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;">Invited Talk: John E. Derrick (Authentrics.ai), <em>Diff, Trace, and Patch</em><br>11:45 am: <strong>Paper Session 1: Assurance, Security, and Federated Learning</strong> (papers 6515, 2221, 2351)</td>
+      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;">Invited Talk: John E. Derrick (Authentrics.ai), <em>Diff, Trace, and Patch</em><br>11:45 am: <strong>Paper Session 1A: Assurance and Security</strong> (papers 6515, 2221, 2351)</td>
     </tr>
     <tr>
       <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap; color:#57606a;">12:30&ndash;2:00 pm</td>
@@ -38,7 +38,7 @@ Speaker details are on the [Speakers page]({{ '/speakers/' | relative_url }}), a
     </tr>
     <tr>
       <td style="width:150px; padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap;">2:00&ndash;3:30 pm</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;">Keynote (shared with ATRACC 2026): Douglas Summers-Stay (U.S. Army Research Laboratory)<br>2:45 pm: Q&amp;A<br>3:00 pm: <strong>Paper Session 1</strong> (continued, papers 6072, 3263)</td>
+      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;">Keynote (shared with ATRACC 2026): Douglas Summers-Stay (U.S. Army Research Laboratory)<br>2:45 pm: Q&amp;A<br>3:00 pm: <strong>Paper Session 1B: Federated and Decentralized Learning</strong> (papers 6072, 3263)</td>
     </tr>
     <tr>
       <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap; color:#57606a;">3:30&ndash;4:00 pm</td>
@@ -46,7 +46,7 @@ Speaker details are on the [Speakers page]({{ '/speakers/' | relative_url }}), a
     </tr>
     <tr>
       <td style="width:150px; padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap;">4:00&ndash;5:00 pm</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;"><strong>Paper Session 3: Agentic Systems in Practice</strong> (papers 6530, 2028, 2141, 7608)</td>
+      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;"><strong>Paper Session 1C: Designing and Deploying Trustworthy Agentic Systems</strong> (papers 6530, 2028, 2141, 7608)</td>
     </tr>
     <tr>
       <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap; color:#57606a;">5:30&ndash;6:30 pm</td>
