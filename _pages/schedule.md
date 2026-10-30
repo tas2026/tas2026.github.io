@@ -73,15 +73,15 @@ Speaker details are on the [Speakers page]({{ '/speakers/' | relative_url }}), a
     </tr>
     <tr>
       <td style="width:150px; padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap;">2:00&ndash;3:30 pm</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;">Keynote (shared with ATRACC 2026): Reza Ghanadan (University of Maryland)<br>2:45 pm: Invited Talk: Mayank Kejriwal (University of Southern California), <em>Building Trustworthy AI Agents for Science</em></td>
+      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;">Keynote (shared with ATRACC 2026): Reza Ghanadan (University of Maryland)<br>2:45 pm: Q&amp;A<br>3:00&ndash;4:00 pm: <strong>Poster Session</strong> (papers 6106, 2510, 9624, 1929, 0202, 2122, 1497, 9160, 5379, 8459), pre-function area near the conference break area</td>
     </tr>
     <tr>
       <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap; color:#57606a;">3:30&ndash;4:00 pm</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top; color:#57606a;">Break</td>
+      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top; color:#57606a;">Break (poster session continues until 4:00 pm)</td>
     </tr>
     <tr>
       <td style="width:150px; padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap;">4:00&ndash;5:00 pm</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;"><strong>Poster Session and Tool, Dataset, and Benchmark Showcase</strong> (papers 6106, 2510, 9624, 1929, 0202, 2122, 1497, 9160, 5379, 8459; time and location subject to AAAI poster assignment)</td>
+      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;">Invited Talk: Mayank Kejriwal (University of Southern California), <em>Building Trustworthy AI Agents for Science</em></td>
     </tr>
     <tr>
       <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap; color:#57606a;">5:30&ndash;6:30 pm</td>
