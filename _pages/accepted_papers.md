@@ -73,7 +73,9 @@ Shadman Sakib and Nirmalya Roy
 Shilin Chhabra
 
 ## Poster Session
-*Poster session: Friday, November 6, 4:00&ndash;5:00 pm (time and location subject to AAAI poster assignment)*
+*Friday, November 6, 3:00&ndash;4:00 pm, pre-function area near the conference break area*
+
+Pre-function area near the conference break area. Foam boards (30 x 40 in) and binder clips are provided; portrait or landscape. Set up at 3:00 pm and remove by 4:00 pm. Boards are not numbered; use any available easel.
 
 **[6106] Certified Agent Graphs: Compiling Verifiable Trust Invariants into LangGraph Execution**<br>
 Anand Sakharam Pimparkar
