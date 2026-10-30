@@ -8,7 +8,7 @@ nav_order: 2
 
 ## Keynote Speakers
 
-Speakers marked as shared are jointly hosted with <a href="https://sites.google.com/view/aaai-atracc/home">ATRACC 2026</a>, a co-located AAAI Fall Symposium.
+<p>Additional speakers will be announced here as they are confirmed. Speakers marked as shared are jointly hosted with <a href="https://sites.google.com/view/aaai-atracc/home">ATRACC 2026</a>, a co-located AAAI Fall Symposium.</p>
 
 <br />
 
@@ -39,12 +39,27 @@ Speakers marked as shared are jointly hosted with <a href="https://sites.google.
     />
     <div class="speaker-info" style="text-align: left;">
       <p style="margin: 0;"><strong><a href="https://www.cs.rutgers.edu/people/professors/details/vladimir-pavlovic">Vladimir Pavlovic</a></strong></p>
-      <p style="margin: 0 0 0.5rem;"><em>Professor of Computer Science, Rutgers University<br />Former Program Director, CISE/IIS, National Science Foundation</em></p>
+      <p style="margin: 0 0 0.5rem;"><em>Program Director, CISE/IIS, National Science Foundation<br />Professor of Computer Science, Rutgers University</em></p>
       <p style="margin: 0;"><strong>Title:</strong> Seeing Is Not Remembering: Toward Grounded, Trustworthy Multimodal Agents</p>
       <p style="margin: 0;"><strong>Abstract:</strong> TBA</p>
       <p style="margin: 0.5rem 0 0;"><strong>Bio:</strong> Vladimir Pavlovic is a Professor of Computer Science at Rutgers University, where for more than twenty years he has led the SEQAM Lab. His work in probabilistic machine learning covers structured and multimodal data and has increasingly focused on the reliability of foundation models and agents built on that data. His group has developed training-free methods for detecting hallucinations in large vision-language models. It has also used interpretability to identify the internal &ldquo;circuits&rdquo; that support visual reasoning and to make models more robust out-of-distribution. Recent work includes MemEye, a benchmark demonstrating that current multimodal agents fail to retain the visual evidence needed for long-horizon reasoning, and ECTraj, a method for fast multi-agent trajectory prediction.</p>
       <p style="margin: 0.5rem 0 0;">From 2022 to 2026 he served as a Program Director in NSF&rsquo;s Division of Information and Intelligent Systems. There, he set a national funding strategy for AI and machine learning and managed a portfolio of more than 150 awards. He also developed or co-developed programs totaling over $200M. These include the $20M Safe Learning-Enabled Systems program, created with Open Philanthropy and Good Ventures to fund research on AI systems whose safety can be assured with high confidence. They also include the $8.5M Mathematical Foundations of AI program and the $6M AI for Mathematical Reasoning program, which grew out of a National Academies workshop he helped convene. He also led the US-Singapore Workshop on Responsible AI, which brought together government, academic, and industry partners from Singapore, Thailand, Malaysia, and Vietnam.</p>
       <p style="margin: 0.5rem 0 0;">Earlier, he directed the Samsung AI Center Cambridge and was a Research Scientist at Google Research. He served as Program Chair of CVPR 2026, where he launched the first large-scale compute-transparency initiative at a major AI conference. He has authored nearly 300 peer-reviewed publications, holds five U.S. patents, and received his Ph.D. from the University of Illinois at Urbana-Champaign.</p>
+    </div>
+  </div>
+
+  <div class="team-member" style="display: flex; align-items: flex-start; gap: 1rem;">
+    <img
+      src="{{ '/assets/img/speakers/Douglas.jpg' | relative_url }}"
+      alt="Douglas Summers-Stay"
+      style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; flex-shrink: 0;"
+    />
+    <div class="speaker-info" style="text-align: left;">
+      <p style="margin: 0;"><strong><a href="https://scholar.google.com/citations?user=Q2JCPAkAAAAJ&amp;hl=en">Douglas Summers-Stay</a></strong> <span style="font-weight: normal;">(shared with <a href="https://sites.google.com/view/aaai-atracc/home">ATRACC '26</a>)</span></p>
+      <p style="margin: 0 0 0.5rem;"><em>U.S. Army Research Laboratory</em></p>
+      <p style="margin: 0;"><strong>Title:</strong> TBA</p>
+      <p style="margin: 0;"><strong>Abstract:</strong> TBA</p>
+      <p style="margin: 0;"><strong>Bio:</strong> TBA</p>
     </div>
   </div>
 
@@ -72,7 +87,7 @@ Speakers marked as shared are jointly hosted with <a href="https://sites.google.
     <div class="speaker-info" style="text-align: left;">
       <p style="margin: 0;"><strong><a href="https://sites.google.com/view/rajdasgupta/">Raj Dasgupta</a></strong> <span style="font-weight: normal;">(shared with <a href="https://sites.google.com/view/aaai-atracc/home">ATRACC '26</a>)</span></p>
       <p style="margin: 0 0 0.5rem;"><em>Research Scientist, Distributed Intelligent Systems Section, Naval Research Laboratory</em></p>
-      <p style="margin: 0;"><strong>Title:</strong> TBA</p>
+      <p style="margin: 0;"><strong>Title:</strong> Trustworthy Multi-Agent Autonomy in Challenged Contexts: Evidence from Maritime Capture-the-Flag</p>
       <p style="margin: 0;"><strong>Abstract:</strong> TBA</p>
       <p style="margin: 0.5rem 0 0;"><strong>Bio:</strong> Dr. Raj Dasgupta is a research scientist in the Distributed Intelligent Systems Section, Information Technology Division at the Naval Research Laboratory in Washington, D. C. His group does research in the field of AI and machine learning around the areas of adversarial AI, reinforcement learning, game theory and multi-robot/multi-agent systems. From 2001-2019, he was the Union Pacific Endowed Professor (tenured) with the Computer Science Department at the University of Nebraska, Omaha. He established and directed the <a href="https://sites.google.com/view/cmantic/">CMANTIC Robotics Lab</a> there and led several large projects supported by NASA, Office of Naval Research and NAVAIR. He is also a senior member of IEEE.</p>
     </div>
