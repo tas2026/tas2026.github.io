@@ -13,109 +13,90 @@ nav_title: "Papers"
 
 # Accepted Contributions
 
-TAS 2026 accepted 29 contributions: 19 oral presentations and 10 posters. See the [Schedule]({{ '/schedule/' | relative_url }}) for session times.
+The TAS 2026 program includes 24 contributions: 14 oral presentations and 10 posters. Numbers in brackets are EasyChair submission IDs, as used in the [Schedule]({{ '/schedule/' | relative_url }}).
 
-## Paper Session 1: Authorization, Permissions, and Runtime Guardrails
-*Thursday, November 5, 11:00 am&ndash;12:30 pm*
+## Paper Session 1: Assurance, Security, and Federated Learning
+*Thursday, November 5, 11:45 am&ndash;12:30 pm and 3:00&ndash;3:30 pm*
 
-**Where the Guarantee Stops: Safe-Delivery Boundaries for Verification-Gated SLM Agents**<br>
+**[6515] Where the Guarantee Stops: Safe-Delivery Boundaries for Verification-Gated SLM Agents**<br>
 Narcisse Rufin Kengne Sakeng, Hajar Moudoud, and Zakaria Abou El Houda
 
-**Incomparable Minima in Agent Tool Authorization**<br>
-Xin Xu
+**[2221] Trajectory-Level Security Debt in LLM Coding Agents**<br>
+Prateek Kumar Rajput, Abdoul Kader Kabore, Yewei Song, Mélissa Tessa, Tailia Malloy, Jacques Klein, and Tegawendé F. Bissyandé
 
-**Who Authorized That? A Preliminary Benchmark of Third-Party Permission Boundaries in Local LLM Agents**<br>
-Varshitha Manjunath, Srimonti Dutta, and Akshata Kishore Moharir
-
-**Authorization Before Action: Prompt and Runtime Safeguards for Local Medical-Billing Agents**<br>
-Varshitha Manjunath and Srimonti Dutta
-
-**Same Numbers, Stale Permission: Operation-Scoped Receipts for Statistical Agents**<br>
-Hema Raju Barri and Chandana Charitha Peddinti
-
-## Paper Session 2: Security and Federated Learning
-*Thursday, November 5, 2:45&ndash;3:30 pm and 4:00&ndash;4:15 pm*
-
-**Trajectory-Level Security Debt in LLM Coding Agents**<br>
-Prateek Rajput, Abdoul Kader Kabore, Yewei Song, Mélissa Tessa, Tailia Malloy, Jacques Klein, and Tegawendé F. Bissyandé
-
-**Agentic Small Language Models for Closed-Loop Provenance-Based Intrusion Detection**<br>
+**[2351] Agentic Small Language Models for Closed-Loop Provenance-Based Intrusion Detection**<br>
 Abderrahman Elhajjout, Zakaria Abou El Houda, Zahi Jarir, Alan Davoust, and Hajar Moudoud
 
-**ATLAS: Adaptive Task-Aware Federated Learning with Heterogeneous LoRA and Split Learning for Edge LLMs**<br>
+**[6072] ATLAS: Adaptive Task-Aware Federated Learning with Heterogeneous LoRA and Split Learning for Edge LLMs**<br>
 Mahmoud S. Mayaleh, Zakaria Abou El Houda, and Lyes Khoukhi
 
-**Internal Coherence Maximization under Decentralized Data**<br>
+**[3263] Internal Coherence Maximization Under Decentralized Data**<br>
 Zhangfei Yang and Aizierjiang Aiersilan
 
-## Paper Session 3: Evaluation, Auditing, and Benchmarking
-*Friday, November 6, 9:45&ndash;10:30 am and 11:00&ndash;11:30 am*
+## Paper Session 2: Evaluation, Auditing, and Benchmarking
+*Friday, November 6, 9:00&ndash;9:30 am and 11:00 am&ndash;12:00 pm*
 
-**Trace Integrity for LLM Data Agents: Auditing Structured-Data Computation Beyond Answer Accuracy in Real-World Systems**<br>
+**[6549] Trace Integrity for LLM Data Agents: Auditing Structured-Data Computation Beyond Answer Accuracy in Real-World Systems**<br>
 Srimonti Dutta and Akshata Kishore Moharir
 
-**Measuring Trust in Agentic Advertising Systems: The ERA Framework and Its Ontology-Grounded Instantiation**<br>
-Satyajeet Raje and Jose David Aguas Lopes
+**[9807] Measuring Trust in Agentic Advertising Systems: The ERA Framework and Its Ontology-Grounded Instantiation**<br>
+Satyajeet Raje, Jose David Aguas Lopes, Piotr Kostrzeński, and Tiago Ramos
 
-**Who Gets Flagged? The Pluralistic Evaluation Gap in AI Content Watermarking**<br>
+**[9694] Who Gets Flagged? The Pluralistic Evaluation Gap in AI Content Watermarking**<br>
 Alexander Nemecek, Osama Zafar, Yuqiao Xu, Wenbiao Li, and Erman Ayday
 
-**Does the Agent Follow the Evidence? Counterfactual Auditing for Trustworthy Multimodal Health Agents**<br>
+**[9954] Does the Agent Follow the Evidence? Counterfactual Auditing for Trustworthy Multimodal Health Agents**<br>
 Shadman Sakib and Nirmalya Roy
 
-**Invalid Is Not Failure: Infrastructure Censoring Bias in Long-Horizon Agent Evaluation**<br>
+**[7658] Invalid Is Not Failure: Infrastructure Censoring Bias in Long-Horizon Agent Evaluation**<br>
 Shilin Chhabra
 
-## Paper Session 4: Governance, Accountability, and Human&ndash;AI Delegation
-*Saturday, November 7, 9:00&ndash;10:30 am*
+## Paper Session 3: Agentic Systems in Practice
+*Thursday, November 5, 4:00&ndash;5:00 pm*
 
-**When Agents Hire Humans: Auditing Accountability Gaps in a Production Marketplace**<br>
-Pulak Mehta and Rajas Kshirsagar
-
-**AIGOps 2.0: A Practical Framework for Continuous EU AI Act Compliance in Enterprise AI Pipelines**<br>
-Manish Gupta
-
-**Agentic AI: Trustworthy Autonomous Decision Making Systems**<br>
-Kalpan Dharamshi
-
-**General-Purpose Agent Orchestrators as Lightweight MLOps Control Planes for Small Teams: A Controlled Feasibility Study**<br>
+**[6530] General-Purpose Agent Orchestrators as Lightweight MLOps Control Planes for Small Teams: A Controlled Feasibility Study**<br>
 Oshin Anand
 
-**Doing Less with More: A First-Principles Exploration of the Suitability of Agentic Computing over Alternative Architectural Choices**<br>
+**[2028] Agentic AI: Trustworthy Autonomous Decision Making Systems**<br>
+Kalpan Dharamshi
+
+**[2141] Doing Less with More: A First-Principles Exploration of the Suitability of Agentic Computing over Alternative Architectural Choices**<br>
 Ritvik Garimella, Biplav Srivastava, and Amit Sheth
 
-## Poster Session
-*Lightning talks: Thursday, November 5, 4:15&ndash;5:00 pm*<br>
-*Poster session: Friday, November 6, 4:00&ndash;5:00 pm (time and location subject to AAAI poster assignment)*
-
-**Certified Agent Graphs: Compiling Verifiable Trust Invariants into LangGraph Execution**<br>
-Anand Sakharam Pimparkar
-
-**Version-Bound Assurance at Agent Decision Boundaries: Binding Provenance, Execution, and Delegated Authority**<br>
-Kenneth Aiello
-
-**IoTSplit: Teacher-Guided Federated IoT Intrusion Detection Using Small Language Models**<br>
-Abderrahman Elhajjout, Hajar Moudoud, and Zakaria Abou El Houda
-
-**Trusted Warnings, Untrusted Context: Security-UI Preconditioning in Mobile LLM Agents**<br>
+**[7608] Trusted Warnings, Untrusted Context: Security-UI Preconditioning in Mobile LLM Agents**<br>
 Mahmoud Nazzal, Muhammad Rabiu, and Yue Xiao
 
-**Toward System-Level Test and Evaluation of Agentic AI Systems: Assurance, Measurement, and Bounded Trust**<br>
+## Poster Session
+*Poster session: Friday, November 6, 4:00&ndash;5:00 pm (time and location subject to AAAI poster assignment)*
+
+**[6106] Certified Agent Graphs: Compiling Verifiable Trust Invariants into LangGraph Execution**<br>
+Anand Sakharam Pimparkar
+
+**[2510] Version-Bound Assurance at Agent Decision Boundaries: Binding Provenance, Execution, and Delegated Authority**<br>
+Kenneth D. Aiello
+
+**[9624] IoTSplit: Teacher-Guided Federated IoT Intrusion Detection Using Small Language Models**<br>
+Abderrahman Elhajjout, Hajar Moudoud, and Zakaria Abou El Houda
+
+**[1929] AIGOps 2.0: A Practical Framework for Continuous EU AI Act Compliance in Enterprise AI Pipelines**<br>
+Manish Gupta
+
+**[0202] Toward System-Level Test and Evaluation of Agentic AI Systems: Assurance, Measurement, and Bounded Trust**<br>
 Jim Lockett and Elena Charnetzki
 
-**Beyond Outcomes: Benchmarking Trace-Derived Metrics for Goal Drift Detection in LLM Agents**<br>
-Michael Briggs, Nadia Amdemariam, Rosaura Arvizu Guzman, Anna Pham, Lawrence Phan, Vivek Tarapara, and Than Vu
+**[2122] Beyond Outcomes: Benchmarking Trace-Derived Metrics for Goal Drift Detection in LLM Agents**<br>
+Nadia Amdemariam, Michael Briggs, Rosaura Arvizu Guzman, Anna Pham, Lawrence Phan, Vivek Tarapara, and Than Vu
 
-**FedCreamCS: Federated Contrastive Representation Ensemble and Aggregation for Concept Segmentation**<br>
+**[1497] FedCreamCS: Federated Contrastive Representation Ensemble and Aggregation for Concept Segmentation**<br>
 Qiwei Xiao
 
-**Personalized Federated Direct Preference Optimization via LoRA Adapters**<br>
+**[9160] Personalized Federated Direct Preference Optimization via LoRA Adapters**<br>
 Zhanhong Jiang and Soumik Sarkar
 
-**Cybernetic and Epistemic: A Missing Vocabulary for Trustworthy Agentic Delegation**<br>
+**[5379] Cybernetic and Epistemic: A Missing Vocabulary for Trustworthy Agentic Delegation**<br>
 Jérémie Lumbroso
 
-**Interchangeable Agency: Anticipated Replacement Creates Legibility Pressure in Human&ndash;AI Handoffs**<br>
+**[8459] Interchangeable Agency: Anticipated Replacement Creates Legibility Pressure in Human&ndash;AI Handoffs**<br>
 Jun Yuan
 
-Accepted contributions are subject to final camera-ready submission and registration requirements. Please see the [Call for Participation]({{ '/call-for-papers/' | relative_url }}) for details.
+Listed contributions have completed camera-ready submission. Presentation is subject to author registration. Please see the [Call for Participation]({{ '/call-for-papers/' | relative_url }}) for details.
