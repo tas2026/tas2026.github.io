@@ -39,7 +39,7 @@ nav_order: 2
     />
     <div class="speaker-info" style="text-align: left;">
       <p style="margin: 0;"><strong><a href="https://www.cs.rutgers.edu/people/professors/details/vladimir-pavlovic">Vladimir Pavlovic</a></strong></p>
-      <p style="margin: 0 0 0.5rem;"><em>Program Director, CISE/IIS, National Science Foundation<br />Professor of Computer Science, Rutgers University</em></p>
+      <p style="margin: 0 0 0.5rem;"><em>Professor of Computer Science, Rutgers University<br />Former Program Director, CISE/IIS, National Science Foundation</em></p>
       <p style="margin: 0;"><strong>Title:</strong> Seeing Is Not Remembering: Toward Grounded, Trustworthy Multimodal Agents</p>
       <p style="margin: 0;"><strong>Abstract:</strong> TBA</p>
       <p style="margin: 0.5rem 0 0;"><strong>Bio:</strong> Vladimir Pavlovic is a Professor of Computer Science at Rutgers University, where for more than twenty years he has led the SEQAM Lab. His work in probabilistic machine learning covers structured and multimodal data and has increasingly focused on the reliability of foundation models and agents built on that data. His group has developed training-free methods for detecting hallucinations in large vision-language models. It has also used interpretability to identify the internal &ldquo;circuits&rdquo; that support visual reasoning and to make models more robust out-of-distribution. Recent work includes MemEye, a benchmark demonstrating that current multimodal agents fail to retain the visual evidence needed for long-horizon reasoning, and ECTraj, a method for fast multi-agent trajectory prediction.</p>
