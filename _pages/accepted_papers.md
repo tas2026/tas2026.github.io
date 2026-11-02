@@ -13,7 +13,7 @@ nav_title: "Papers"
 
 # Accepted Contributions
 
-The TAS 2026 program includes 24 contributions: 14 oral presentations and 10 posters. Numbers in brackets are EasyChair submission IDs, as used in the [Schedule]({{ '/schedule/' | relative_url }}).
+The TAS 2026 program includes 24 contributions: 15 oral presentations and 10 posters (one paper is presented in both formats). Numbers in brackets are EasyChair submission IDs, as used in the [Schedule]({{ '/schedule/' | relative_url }}).
 
 ## Paper Session 1A: Assurance and Security
 *Thursday, November 5, 11:45 am&ndash;12:30 pm*
@@ -61,7 +61,7 @@ Srimonti Dutta and Akshata Kishore Moharir
 Satyajeet Raje, Jose David Aguas Lopes, Piotr Kostrzeński, and Tiago Ramos
 
 ## Paper Session 2B: Evaluation, Auditing, and Benchmarking
-*Friday, November 6, 11:00&ndash;11:45 am*
+*Friday, November 6, 11:00 am&ndash;12:00 pm*
 
 **[9694] Who Gets Flagged? The Pluralistic Evaluation Gap in AI Content Watermarking**<br>
 Alexander Nemecek, Osama Zafar, Yuqiao Xu, Wenbiao Li, and Erman Ayday
@@ -71,6 +71,11 @@ Shadman Sakib and Nirmalya Roy
 
 **[7658] Invalid Is Not Failure: Infrastructure Censoring Bias in Long-Horizon Agent Evaluation**<br>
 Shilin Chhabra
+
+**[1929] AIGOps 2.0: A Practical Framework for Continuous EU AI Act Compliance in Enterprise AI Pipelines**<br>
+Manish Gupta
+
+*Paper 1929 is also presented in the Poster Session.*
 
 ## Poster Session
 *Friday, November 6, 3:00&ndash;4:00 pm, pre-function area near the conference break area*
