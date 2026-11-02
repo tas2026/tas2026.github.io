@@ -65,7 +65,7 @@ Speaker details are on the [Speakers page]({{ '/speakers/' | relative_url }}), a
     </tr>
     <tr>
       <td style="width:150px; padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap;">11:00 am&ndash;12:30 pm</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;"><strong>Paper Session 2B: Evaluation, Auditing, and Benchmarking</strong> (papers 9694, 9954, 7658)<br>11:45 am: Paper 1929 (also presented as a poster)</td>
+      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;"><strong>Paper Session 2B: Evaluation, Auditing, and Benchmarking</strong> (papers 9694, 9954, 7658, 1929)<br></td>
     </tr>
     <tr>
       <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap; color:#57606a;">12:30&ndash;2:00 pm</td>
