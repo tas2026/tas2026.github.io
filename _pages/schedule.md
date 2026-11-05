@@ -10,7 +10,8 @@ nav_title: Schedule
 # Schedule
 
 **Dates:** November 5&ndash;7, 2026
-**Venue:** Westin Arlington, Arlington, Virginia, USA (AAAI 2026 Fall Symposium Series)
+**Venue:** Westin Arlington, Arlington, Virginia, USA (AAAI 2026 Fall Symposium Series)<br>
+**Room:** F. Scott Fitzgerald Ballroom E, second floor. All joint keynotes with ATRACC are held in Ballroom E.
 
 Speaker details are on the [Speakers page]({{ '/speakers/' | relative_url }}), and papers are listed by number on the [Accepted Contributions page]({{ '/accepted/' | relative_url }}). Keynotes marked as shared are joint sessions with the co-located <a href="https://sites.google.com/view/aaai-atracc/home">ATRACC 2026</a> symposium. Keynotes are 45 minutes followed by Q&amp;A; paper talks are 15 minutes including questions.
 
@@ -22,7 +23,7 @@ Speaker details are on the [Speakers page]({{ '/speakers/' | relative_url }}), a
     </tr>
     <tr>
       <td style="width:150px; padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap;">9:00&ndash;10:30 am</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;">Welcome and framing remarks<br>9:30 am: Keynote: Apostol Vassilev (NIST), <em>Maintaining Trust in Agentic AI Systems, When the Guardrails Stop Working</em><br>10:15 am: Q&amp;A</td>
+      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;">9:00 am: Welcome and framing remarks<br>9:30 am: Keynote: Apostol Vassilev (NIST), <em>Maintaining Trust in Agentic AI Systems, When the Guardrails Stop Working</em><br>10:15 am: Q&amp;A</td>
     </tr>
     <tr>
       <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap; color:#57606a;">10:30&ndash;11:00 am</td>
@@ -30,7 +31,7 @@ Speaker details are on the [Speakers page]({{ '/speakers/' | relative_url }}), a
     </tr>
     <tr>
       <td style="width:150px; padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap;">11:00 am&ndash;12:30 pm</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;">Invited Talk: John E. Derrick (Authentrics.ai), <em>Diff, Trace, and Patch</em><br>11:45 am: <strong>Paper Session 1A: Assurance and Security</strong> (papers 6515, 2221, 2351)</td>
+      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;">Invited Talk: John E. Derrick (Authentrics.ai), <em>Diff, Trace, and Patch</em><br>11:45 am: <strong>Paper Session 1A: Assurance and Security</strong> (papers 6515, 2221, 2351) · Chair: Shibbir Ahmed</td>
     </tr>
     <tr>
       <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap; color:#57606a;">12:30&ndash;2:00 pm</td>
@@ -38,7 +39,7 @@ Speaker details are on the [Speakers page]({{ '/speakers/' | relative_url }}), a
     </tr>
     <tr>
       <td style="width:150px; padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap;">2:00&ndash;3:30 pm</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;">Keynote (shared with ATRACC 2026): Douglas Summers-Stay (U.S. Army Research Laboratory)<br>2:45 pm: Q&amp;A<br>3:00 pm: <strong>Paper Session 1B: Federated and Decentralized Learning</strong> (papers 6072, 3263)</td>
+      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;">Keynote (shared with ATRACC 2026): Douglas Summers-Stay (Army Research Laboratory), <em>AI Safety as an Institution: Lessons from Army Decision Systems</em><br>2:45 pm: Q&amp;A<br>3:00 pm: <strong>Paper Session 1B: Federated and Decentralized Learning</strong> (papers 6072, 3263) · Chair: Zhanhong Jiang</td>
     </tr>
     <tr>
       <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap; color:#57606a;">3:30&ndash;4:00 pm</td>
@@ -46,7 +47,7 @@ Speaker details are on the [Speakers page]({{ '/speakers/' | relative_url }}), a
     </tr>
     <tr>
       <td style="width:150px; padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap;">4:00&ndash;5:00 pm</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;"><strong>Paper Session 1C: Designing and Deploying Trustworthy Agentic Systems</strong> (papers 6530, 2028, 2141, 7608)</td>
+      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;"><strong>Paper Session 1C: Designing and Deploying Trustworthy Agentic Systems</strong> (papers 6530, 2028, 2141, 7608) · Chair: Satyajeet Raje</td>
     </tr>
     <tr>
       <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap; color:#57606a;">5:30&ndash;6:30 pm</td>
@@ -57,7 +58,7 @@ Speaker details are on the [Speakers page]({{ '/speakers/' | relative_url }}), a
     </tr>
     <tr>
       <td style="width:150px; padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap;">9:00&ndash;10:30 am</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;"><strong>Paper Session 2A: Evaluation, Auditing, and Benchmarking</strong> (papers 6549, 9807)<br>9:30 am: Keynote (shared with ATRACC 2026): Vladimir Pavlovic (Rutgers University), <em>Seeing Is Not Remembering: Toward Grounded, Trustworthy Multimodal Agents</em></td>
+      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;">9:00 am: <strong>Paper Session 2A: Evaluation, Auditing, and Benchmarking</strong> (papers 6549, 9807) · Chair: Manish Gupta<br>9:30 am: Keynote (shared with ATRACC 2026): Vladimir Pavlovic (Rutgers University), <em>Seeing Is Not Remembering: Toward Grounded, Trustworthy Multimodal Agents</em></td>
     </tr>
     <tr>
       <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap; color:#57606a;">10:30&ndash;11:00 am</td>
@@ -65,7 +66,7 @@ Speaker details are on the [Speakers page]({{ '/speakers/' | relative_url }}), a
     </tr>
     <tr>
       <td style="width:150px; padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap;">11:00 am&ndash;12:30 pm</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;"><strong>Paper Session 2B: Evaluation, Auditing, and Benchmarking</strong> (papers 9694, 9954, 7658, 1929)<br></td>
+      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;"><strong>Paper Session 2B: Evaluation, Auditing, and Benchmarking</strong> (papers 9694, 9954, 7658) · Chair: Ritvik Garimella<br>11:45 am: Paper 1929 (also presented as a poster)</td>
     </tr>
     <tr>
       <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap; color:#57606a;">12:30&ndash;2:00 pm</td>
@@ -73,7 +74,7 @@ Speaker details are on the [Speakers page]({{ '/speakers/' | relative_url }}), a
     </tr>
     <tr>
       <td style="width:150px; padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap;">2:00&ndash;3:30 pm</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;">Keynote (shared with ATRACC 2026): Reza Ghanadan (University of Maryland)<br>2:45 pm: Q&amp;A<br>3:00&ndash;4:00 pm: <strong>Poster Session</strong> (papers 6106, 2510, 9624, 1929, 0202, 2122, 1497, 9160, 5379, 8459), pre-function area near the conference break area</td>
+      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;">Keynote (shared with ATRACC 2026): Reza Ghanadan (University of Maryland), <em>Engineering Trustworthy AI Agents: From Evaluation to Runtime Assurance</em><br>2:45 pm: Q&amp;A<br>3:00&ndash;4:00 pm: <strong>Poster Session</strong> (papers 6106, 2510, 9624, 1929, 0202, 2122, 1497, 9160, 5379, 8459), pre-function area near the conference break area</td>
     </tr>
     <tr>
       <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap; color:#57606a;">3:30&ndash;4:00 pm</td>
@@ -92,7 +93,7 @@ Speaker details are on the [Speakers page]({{ '/speakers/' | relative_url }}), a
     </tr>
     <tr>
       <td style="width:150px; padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap;">9:00&ndash;10:30 am</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;">Day 3 opening remarks and discussion<br>9:30 am: Keynote (shared with ATRACC 2026): Raj Dasgupta (Naval Research Laboratory), <em>Trustworthy Multi-Agent Autonomy in Challenged Contexts: Evidence from Maritime Capture-the-Flag</em><br>10:15 am: Q&amp;A and discussion</td>
+      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;">9:00 am: Day 3 opening remarks and discussion<br>9:30 am: Keynote (shared with ATRACC 2026): Raj Dasgupta (Naval Research Laboratory), <em>Trustworthy Multi-Agent Autonomy in Challenged Contexts: Evidence from Maritime Capture-the-Flag</em><br>10:15 am: Q&amp;A and discussion</td>
     </tr>
     <tr>
       <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap; color:#57606a;">10:30&ndash;11:00 am</td>
@@ -100,10 +101,10 @@ Speaker details are on the [Speakers page]({{ '/speakers/' | relative_url }}), a
     </tr>
     <tr>
       <td style="width:150px; padding:0.6rem 0.75rem; border:1px solid #d0d7de; background:#f6f8fa; vertical-align:top; font-weight:600; white-space:nowrap;">11:00 am&ndash;12:30 pm</td>
-      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;">Invited Talk: Jim Lockett and Elena Charnetzki (The MITRE Corporation)<br>11:45 am: Closing remarks</td>
+      <td style="padding:0.6rem 0.75rem; border:1px solid #d0d7de; vertical-align:top;">Invited Talk: Jim Lockett and Elena Charnetzki (The MITRE Corporation), <em>Toward System-Level Test and Evaluation of Agentic AI Systems: Assurance, Measurement, and Bounded Trust</em><br>11:45 am: Closing remarks</td>
     </tr>
   </tbody>
 </table>
 </div>
 
-The schedule is subject to change. Session chairs will be announced shortly.
+The schedule is subject to change.
